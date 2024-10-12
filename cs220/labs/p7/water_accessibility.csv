@@ -1,0 +1,303 @@
+country_code,country_name,region,year,income_level,pop,urban_percent,national_alb,urban_alb
+AFG,Afghanistan,South Asia,2015,Low income,34414,25,61,87
+AFG,Afghanistan,South Asia,2020,Low income,38928,26,75,100
+ALB,Albania,Europe & Central Asia,2015,Upper middle income,2891,57,93,95
+ALB,Albania,Europe & Central Asia,2020,Upper middle income,2878,62,95,96
+DZA,Algeria,Middle East & North Africa,2015,Upper middle income,39728,71,93,95
+DZA,Algeria,Middle East & North Africa,2020,Lower middle income,43851,74,94,96
+AND,Andorra,Europe & Central Asia,2015,High income,78,88,100,100
+AND,Andorra,Europe & Central Asia,2020,High income,77,88,100,100
+AGO,Angola,Sub-Saharan Africa,2015,Upper middle income,27884,63,54,70
+AGO,Angola,Sub-Saharan Africa,2020,Lower middle income,32866,67,57,72
+ARM,Armenia,Europe & Central Asia,2015,Lower middle income,2926,63,100,100
+ARM,Armenia,Europe & Central Asia,2020,Upper middle income,2963,63,100,100
+AUS,Australia,East Asia & Pacific,2015,High income,23932,86,100,100
+AUS,Australia,East Asia & Pacific,2020,High income,25500,86,100,100
+AUT,Austria,Europe & Central Asia,2015,High income,8679,58,100,100
+AUT,Austria,Europe & Central Asia,2020,High income,9006,59,100,100
+AZE,Azerbaijan,Europe & Central Asia,2015,Upper middle income,9623,55,92,100
+AZE,Azerbaijan,Europe & Central Asia,2020,Upper middle income,10139,56,96,100
+BGD,Bangladesh,South Asia,2015,Lower middle income,156256,34,97,98
+BGD,Bangladesh,South Asia,2020,Lower middle income,164689,38,98,97
+BLR,Belarus,Europe & Central Asia,2015,Upper middle income,9439,77,96,96
+BLR,Belarus,Europe & Central Asia,2020,Upper middle income,9449,79,96,96
+BEL,Belgium,Europe & Central Asia,2015,High income,11288,98,100,100
+BEL,Belgium,Europe & Central Asia,2020,High income,11590,98,100,100
+BLZ,Belize,Latin America & Caribbean,2015,Upper middle income,361,45,97,100
+BLZ,Belize,Latin America & Caribbean,2020,Lower middle income,398,46,98,99
+BEN,Benin,Sub-Saharan Africa,2015,Low income,10576,46,65,74
+BEN,Benin,Sub-Saharan Africa,2020,Lower middle income,12123,48,65,73
+BMU,Bermuda,North America,2015,High income,64,100,100,100
+BMU,Bermuda,North America,2020,High income,62,100,100,100
+BTN,Bhutan,South Asia,2015,Lower middle income,728,39,96,98
+BTN,Bhutan,South Asia,2020,Lower middle income,772,42,97,98
+BIH,Bosnia and Herzegovina,Europe & Central Asia,2015,Upper middle income,3429,47,96,95
+BIH,Bosnia and Herzegovina,Europe & Central Asia,2020,Upper middle income,3281,49,96,95
+BWA,Botswana,Sub-Saharan Africa,2015,Upper middle income,2121,67,88,97
+BWA,Botswana,Sub-Saharan Africa,2020,Upper middle income,2352,71,92,98
+BRA,Brazil,Latin America & Caribbean,2015,Upper middle income,204472,86,98,100
+BRA,Brazil,Latin America & Caribbean,2020,Upper middle income,212559,87,100,100
+BRN,Brunei Darussalam,East Asia & Pacific,2015,High income,415,77,100,100
+BRN,Brunei Darussalam,East Asia & Pacific,2020,High income,437,78,100,100
+BGR,Bulgaria,Europe & Central Asia,2015,Upper middle income,7200,74,100,100
+BGR,Bulgaria,Europe & Central Asia,2020,Upper middle income,6948,76,100,100
+BFA,Burkina Faso,Sub-Saharan Africa,2015,Low income,18111,28,50,80
+BFA,Burkina Faso,Sub-Saharan Africa,2020,Low income,20903,31,47,80
+BDI,Burundi,Sub-Saharan Africa,2015,Low income,10160,12,60,89
+BDI,Burundi,Sub-Saharan Africa,2020,Low income,11891,14,62,91
+CPV,Cabo Verde,Sub-Saharan Africa,2015,Lower middle income,525,64,85,92
+CPV,Cabo Verde,Sub-Saharan Africa,2020,Lower middle income,556,67,89,93
+KHM,Cambodia,East Asia & Pacific,2015,Lower middle income,15521,22,68,89
+KHM,Cambodia,East Asia & Pacific,2020,Lower middle income,16719,24,71,90
+CMR,Cameroon,Sub-Saharan Africa,2015,Lower middle income,23298,55,64,82
+CMR,Cameroon,Sub-Saharan Africa,2020,Lower middle income,26546,58,66,82
+CAN,Canada,North America,2015,High income,36027,81,100,100
+CAN,Canada,North America,2020,High income,37742,82,100,100
+CAF,Central African Republic,Sub-Saharan Africa,2015,Low income,4493,40,42,58
+CAF,Central African Republic,Sub-Saharan Africa,2020,Low income,4830,42,37,50
+TCD,Chad,Sub-Saharan Africa,2015,Low income,14111,23,44,75
+TCD,Chad,Sub-Saharan Africa,2020,Low income,16426,24,46,74
+CHL,Chile,Latin America & Caribbean,2015,High income,17969,87,100,100
+CHL,Chile,Latin America & Caribbean,2020,High income,19116,88,100,100
+CHN,China,East Asia & Pacific,2015,Upper middle income,1430405,56,92,98
+CHN,China,East Asia & Pacific,2020,Upper middle income,1463141,62,94,97
+COL,Colombia,Latin America & Caribbean,2015,Upper middle income,47521,80,96,100
+COL,Colombia,Latin America & Caribbean,2020,Upper middle income,50883,81,97,100
+CRI,Costa Rica,Latin America & Caribbean,2015,Upper middle income,4848,77,100,100
+CRI,Costa Rica,Latin America & Caribbean,2020,Upper middle income,5094,81,100,100
+CIV,Côte d'Ivoire,Sub-Saharan Africa,2015,Lower middle income,23226,49,71,87
+CIV,Côte d'Ivoire,Sub-Saharan Africa,2020,Lower middle income,26378,52,71,85
+CUB,Cuba,Latin America & Caribbean,2015,Upper middle income,11325,77,96,98
+CUB,Cuba,Latin America & Caribbean,2020,Upper middle income,11327,77,97,98
+CYP,Cyprus,Europe & Central Asia,2015,High income,1161,67,100,100
+CYP,Cyprus,Europe & Central Asia,2020,High income,1207,67,100,100
+CZE,Czech Republic,Europe & Central Asia,2015,High income,10601,73,100,100
+CZE,Czech Republic,Europe & Central Asia,2020,High income,10709,74,100,100
+DNK,Denmark,Europe & Central Asia,2015,High income,5689,88,100,100
+DNK,Denmark,Europe & Central Asia,2020,High income,5792,88,100,100
+DJI,Djibouti,Middle East & North Africa,2015,Lower middle income,914,77,76,84
+DJI,Djibouti,Middle East & North Africa,2020,Lower middle income,988,78,76,84
+DOM,Dominican Republic,Latin America & Caribbean,2015,Upper middle income,10282,79,96,98
+DOM,Dominican Republic,Latin America & Caribbean,2020,Upper middle income,10848,83,97,98
+ECU,Ecuador,Latin America & Caribbean,2015,Upper middle income,16212,63,93,100
+ECU,Ecuador,Latin America & Caribbean,2020,Upper middle income,17643,64,95,100
+SLV,El Salvador,Latin America & Caribbean,2015,Lower middle income,6325,70,96,99
+SLV,El Salvador,Latin America & Caribbean,2020,Lower middle income,6486,73,98,100
+EST,Estonia,Europe & Central Asia,2015,High income,1315,68,100,100
+EST,Estonia,Europe & Central Asia,2020,High income,1327,69,100,100
+SWZ,Eswatini,Sub-Saharan Africa,2015,Lower middle income,1104,23,67,95
+SWZ,Eswatini,Sub-Saharan Africa,2020,Lower middle income,1160,24,71,97
+ETH,Ethiopia,Sub-Saharan Africa,2015,Low income,100835,19,42,82
+ETH,Ethiopia,Sub-Saharan Africa,2020,Low income,114964,22,50,84
+FJI,Fiji,East Asia & Pacific,2015,Upper middle income,869,55,94,98
+FJI,Fiji,East Asia & Pacific,2020,Upper middle income,896,57,94,98
+FIN,Finland,Europe & Central Asia,2015,High income,5481,85,100,100
+FIN,Finland,Europe & Central Asia,2020,High income,5541,86,100,100
+FRA,France,Europe & Central Asia,2015,High income,64453,80,100,100
+FRA,France,Europe & Central Asia,2020,High income,65274,81,100,100
+GAB,Gabon,Sub-Saharan Africa,2015,Upper middle income,1948,88,84,89
+GAB,Gabon,Sub-Saharan Africa,2020,Upper middle income,2226,90,85,90
+GEO,Georgia,Europe & Central Asia,2015,Upper middle income,4024,57,96,100
+GEO,Georgia,Europe & Central Asia,2020,Upper middle income,3989,59,97,100
+DEU,Germany,Europe & Central Asia,2015,High income,81787,77,100,100
+DEU,Germany,Europe & Central Asia,2020,High income,83784,77,100,100
+GHA,Ghana,Sub-Saharan Africa,2015,Lower middle income,27849,54,80,91
+GHA,Ghana,Sub-Saharan Africa,2020,Lower middle income,31073,57,86,96
+GIB,Gibraltar,Europe & Central Asia,2015,High income,34,100,100,100
+GIB,Gibraltar,Europe & Central Asia,2020,High income,34,100,100,100
+GRC,Greece,Europe & Central Asia,2015,High income,10660,78,100,100
+GRC,Greece,Europe & Central Asia,2020,High income,10423,80,100,100
+GRL,Greenland,Europe & Central Asia,2015,High income,56,86,100,100
+GRL,Greenland,Europe & Central Asia,2020,High income,57,87,100,100
+GTM,Guatemala,Latin America & Caribbean,2015,Lower middle income,16252,50,92,97
+GTM,Guatemala,Latin America & Caribbean,2020,Upper middle income,17916,52,94,98
+GIN,Guinea,Sub-Saharan Africa,2015,Low income,11432,35,64,85
+GIN,Guinea,Sub-Saharan Africa,2020,Low income,13133,37,64,87
+GNB,Guinea-Bissau,Sub-Saharan Africa,2015,Low income,1737,42,59,73
+GNB,Guinea-Bissau,Sub-Saharan Africa,2020,Low income,1968,44,59,71
+GUY,Guyana,Latin America & Caribbean,2015,Upper middle income,767,26,95,100
+GUY,Guyana,Latin America & Caribbean,2020,Upper middle income,787,27,96,100
+HTI,Haiti,Latin America & Caribbean,2015,Low income,10696,52,65,85
+HTI,Haiti,Latin America & Caribbean,2020,Lower middle income,11403,57,67,85
+HND,Honduras,Latin America & Caribbean,2015,Lower middle income,9113,55,93,99
+HND,Honduras,Latin America & Caribbean,2020,Lower middle income,9905,58,96,100
+HUN,Hungary,Europe & Central Asia,2015,High income,9778,71,100,100
+HUN,Hungary,Europe & Central Asia,2020,High income,9660,72,100,100
+ISL,Iceland,Europe & Central Asia,2015,High income,330,94,100,100
+ISL,Iceland,Europe & Central Asia,2020,High income,341,94,100,100
+IND,India,South Asia,2015,Lower middle income,1310152,33,88,93
+IND,India,South Asia,2020,Lower middle income,1380004,35,90,94
+IDN,Indonesia,East Asia & Pacific,2015,Lower middle income,258383,53,89,95
+IDN,Indonesia,East Asia & Pacific,2020,Lower middle income,273524,57,92,98
+IRQ,Iraq,Middle East & North Africa,2015,Upper middle income,35572,70,94,98
+IRQ,Iraq,Middle East & North Africa,2020,Upper middle income,40223,71,98,100
+IRL,Ireland,Europe & Central Asia,2015,High income,4652,63,97,97
+IRL,Ireland,Europe & Central Asia,2020,High income,4938,64,97,97
+ISR,Israel,Middle East & North Africa,2015,High income,7978,92,100,100
+ISR,Israel,Middle East & North Africa,2020,High income,8656,93,100,100
+JAM,Jamaica,Latin America & Caribbean,2015,Upper middle income,2891,55,90,95
+JAM,Jamaica,Latin America & Caribbean,2020,Upper middle income,2961,56,91,95
+JOR,Jordan,Middle East & North Africa,2015,Upper middle income,9267,90,100,100
+JOR,Jordan,Middle East & North Africa,2020,Upper middle income,10203,91,99,100
+KAZ,Kazakhstan,Europe & Central Asia,2015,Upper middle income,17572,57,95,98
+KAZ,Kazakhstan,Europe & Central Asia,2020,Upper middle income,18777,58,95,98
+KEN,Kenya,Sub-Saharan Africa,2015,Lower middle income,47878,26,58,87
+KEN,Kenya,Sub-Saharan Africa,2020,Lower middle income,53771,28,62,87
+KIR,Kiribati,East Asia & Pacific,2015,Lower middle income,111,52,74,89
+KIR,Kiribati,East Asia & Pacific,2020,Lower middle income,119,56,78,92
+LVA,Latvia,Europe & Central Asia,2015,High income,1998,68,99,99
+LVA,Latvia,Europe & Central Asia,2020,High income,1886,68,99,99
+LSO,Lesotho,Sub-Saharan Africa,2015,Lower middle income,2059,27,71,90
+LSO,Lesotho,Sub-Saharan Africa,2020,Lower middle income,2142,29,72,93
+LBR,Liberia,Sub-Saharan Africa,2015,Low income,4472,50,73,84
+LBR,Liberia,Sub-Saharan Africa,2020,Low income,5058,52,75,86
+LTU,Lithuania,Europe & Central Asia,2015,High income,2932,67,97,100
+LTU,Lithuania,Europe & Central Asia,2020,High income,2722,68,98,100
+LUX,Luxembourg,Europe & Central Asia,2015,High income,567,90,100,100
+LUX,Luxembourg,Europe & Central Asia,2020,High income,626,91,100,100
+MDG,Madagascar,Sub-Saharan Africa,2015,Low income,24234,35,49,78
+MDG,Madagascar,Sub-Saharan Africa,2020,Low income,27691,39,53,80
+MWI,Malawi,Sub-Saharan Africa,2015,Low income,16745,16,66,86
+MWI,Malawi,Sub-Saharan Africa,2020,Low income,19130,17,70,86
+MYS,Malaysia,East Asia & Pacific,2015,Upper middle income,30271,74,97,100
+MYS,Malaysia,East Asia & Pacific,2020,Upper middle income,32366,77,97,100
+MDV,Maldives,South Asia,2015,Upper middle income,455,39,99,99
+MDV,Maldives,South Asia,2020,Upper middle income,541,41,100,100
+MLI,Mali,Sub-Saharan Africa,2015,Low income,17439,40,74,91
+MLI,Mali,Sub-Saharan Africa,2020,Low income,20251,44,83,96
+MLT,Malta,Middle East & North Africa,2015,High income,434,94,100,100
+MLT,Malta,Middle East & North Africa,2020,High income,442,95,100,100
+MHL,Marshall Islands,East Asia & Pacific,2015,Upper middle income,57,76,88,86
+MHL,Marshall Islands,East Asia & Pacific,2020,Upper middle income,59,78,89,87
+MRT,Mauritania,Sub-Saharan Africa,2015,Lower middle income,4046,51,67,86
+MRT,Mauritania,Sub-Saharan Africa,2020,Lower middle income,4650,55,72,89
+MUS,Mauritius,Sub-Saharan Africa,2015,Upper middle income,1259,41,100,100
+MUS,Mauritius,Sub-Saharan Africa,2020,Upper middle income,1272,41,100,100
+MEX,Mexico,Latin America & Caribbean,2015,Upper middle income,121858,79,98,100
+MEX,Mexico,Latin America & Caribbean,2020,Upper middle income,128933,81,100,100
+MCO,Monaco,Europe & Central Asia,2015,High income,38,100,100,100
+MCO,Monaco,Europe & Central Asia,2020,High income,39,100,100,100
+MNG,Mongolia,East Asia & Pacific,2015,Lower middle income,2998,68,81,94
+MNG,Mongolia,East Asia & Pacific,2020,Lower middle income,3278,69,85,97
+MNE,Montenegro,Europe & Central Asia,2015,Upper middle income,627,66,97,98
+MNE,Montenegro,Europe & Central Asia,2020,Upper middle income,628,67,99,100
+MAR,Morocco,Middle East & North Africa,2015,Lower middle income,34664,61,84,96
+MAR,Morocco,Middle East & North Africa,2020,Lower middle income,36911,64,90,98
+MOZ,Mozambique,Sub-Saharan Africa,2015,Low income,27042,34,51,80
+MOZ,Mozambique,Sub-Saharan Africa,2020,Low income,31255,37,63,88
+MMR,Myanmar,East Asia & Pacific,2015,Lower middle income,52681,30,74,88
+MMR,Myanmar,East Asia & Pacific,2020,Lower middle income,54410,31,84,95
+NAM,Namibia,Sub-Saharan Africa,2015,Upper middle income,2315,47,83,97
+NAM,Namibia,Sub-Saharan Africa,2020,Upper middle income,2541,52,84,96
+NRU,Nauru,East Asia & Pacific,2015,High income,10,100,100,100
+NRU,Nauru,East Asia & Pacific,2020,High income,11,100,100,100
+NPL,Nepal,South Asia,2015,Low income,27015,19,88,90
+NPL,Nepal,South Asia,2020,Lower middle income,29137,21,90,90
+NLD,Netherlands,Europe & Central Asia,2015,High income,16938,90,100,100
+NLD,Netherlands,Europe & Central Asia,2020,High income,17135,92,100,100
+NZL,New Zealand,East Asia & Pacific,2015,High income,4615,86,100,100
+NZL,New Zealand,East Asia & Pacific,2020,High income,4822,87,100,100
+NIC,Nicaragua,Latin America & Caribbean,2015,Lower middle income,6223,58,81,97
+NIC,Nicaragua,Latin America & Caribbean,2020,Lower middle income,6625,59,82,97
+NER,Niger,Sub-Saharan Africa,2015,Low income,20002,16,45,88
+NER,Niger,Sub-Saharan Africa,2020,Low income,24207,17,47,86
+NGA,Nigeria,Sub-Saharan Africa,2015,Lower middle income,181137,48,69,85
+NGA,Nigeria,Sub-Saharan Africa,2020,Lower middle income,206140,52,78,92
+MKD,North Macedonia,Europe & Central Asia,2015,Upper middle income,2079,57,97,97
+MKD,North Macedonia,Europe & Central Asia,2020,Upper middle income,2083,58,98,98
+NOR,Norway,Europe & Central Asia,2015,High income,5200,81,100,100
+NOR,Norway,Europe & Central Asia,2020,High income,5421,83,100,100
+OMN,Oman,Middle East & North Africa,2015,High income,4267,81,90,94
+OMN,Oman,Middle East & North Africa,2020,High income,5107,86,92,95
+PAK,Pakistan,South Asia,2015,Lower middle income,199427,36,89,94
+PAK,Pakistan,South Asia,2020,Lower middle income,220892,37,90,93
+PLW,Palau,East Asia & Pacific,2015,Upper middle income,18,78,100,100
+PLW,Palau,East Asia & Pacific,2020,High income,18,81,100,100
+PAN,Panama,Latin America & Caribbean,2015,Upper middle income,3968,67,93,98
+PAN,Panama,Latin America & Caribbean,2020,Upper middle income,4315,68,94,98
+PNG,Papua New Guinea,East Asia & Pacific,2015,Lower middle income,8108,13,41,85
+PNG,Papua New Guinea,East Asia & Pacific,2020,Lower middle income,8947,13,45,86
+PRY,Paraguay,Latin America & Caribbean,2015,Upper middle income,6689,61,97,100
+PRY,Paraguay,Latin America & Caribbean,2020,Upper middle income,7133,62,100,100
+PER,Peru,Latin America & Caribbean,2015,Upper middle income,30471,77,90,95
+PER,Peru,Latin America & Caribbean,2020,Upper middle income,32972,78,93,97
+PHL,Philippines,East Asia & Pacific,2015,Lower middle income,102113,46,92,96
+PHL,Philippines,East Asia & Pacific,2020,Lower middle income,109581,47,94,97
+POL,Poland,Europe & Central Asia,2015,High income,38034,60,100,100
+POL,Poland,Europe & Central Asia,2020,High income,37847,60,100,100
+PRT,Portugal,Europe & Central Asia,2015,High income,10368,64,100,100
+PRT,Portugal,Europe & Central Asia,2020,High income,10197,66,100,100
+ROU,Romania,Europe & Central Asia,2015,Upper middle income,19925,54,100,100
+ROU,Romania,Europe & Central Asia,2020,Upper middle income,19238,54,100,100
+RUS,Russian Federation,Europe & Central Asia,2015,Upper middle income,144985,74,97,99
+RUS,Russian Federation,Europe & Central Asia,2020,Upper middle income,145934,75,97,99
+RWA,Rwanda,Sub-Saharan Africa,2015,Low income,11369,17,57,80
+RWA,Rwanda,Sub-Saharan Africa,2020,Low income,12952,17,60,83
+WSM,Samoa,East Asia & Pacific,2015,Lower middle income,194,19,91,91
+WSM,Samoa,East Asia & Pacific,2020,Lower middle income,198,18,92,92
+SEN,Senegal,Sub-Saharan Africa,2015,Low income,14578,46,79,94
+SEN,Senegal,Sub-Saharan Africa,2020,Lower middle income,16744,48,85,95
+SRB,Serbia,Europe & Central Asia,2015,Upper middle income,8877,56,93,92
+SRB,Serbia,Europe & Central Asia,2020,Upper middle income,8737,56,95,95
+SLE,Sierra Leone,Sub-Saharan Africa,2015,Low income,7172,41,58,76
+SLE,Sierra Leone,Sub-Saharan Africa,2020,Low income,7977,43,64,78
+SGP,Singapore,East Asia & Pacific,2015,High income,5592,100,100,100
+SGP,Singapore,East Asia & Pacific,2020,High income,5850,100,100,100
+SLB,Solomon Islands,East Asia & Pacific,2015,Lower middle income,603,22,69,91
+SLB,Solomon Islands,East Asia & Pacific,2020,Lower middle income,687,25,67,91
+SOM,Somalia,Sub-Saharan Africa,2015,Low income,13797,43,49,74
+SOM,Somalia,Sub-Saharan Africa,2020,Low income,15893,46,56,79
+ZAF,South Africa,Sub-Saharan Africa,2015,Upper middle income,55386,65,92,99
+ZAF,South Africa,Sub-Saharan Africa,2020,Upper middle income,59309,67,94,100
+SSD,South Sudan,Sub-Saharan Africa,2015,Low income,10716,19,41,61
+SSD,South Sudan,Sub-Saharan Africa,2020,Low income,11194,20,41,70
+ESP,Spain,Europe & Central Asia,2015,High income,46672,80,100,100
+ESP,Spain,Europe & Central Asia,2020,High income,46755,81,100,100
+LKA,Sri Lanka,South Asia,2015,Lower middle income,20908,18,90,98
+LKA,Sri Lanka,South Asia,2020,Lower middle income,21413,19,92,100
+SDN,Sudan,Sub-Saharan Africa,2015,Lower middle income,38903,34,59,73
+SDN,Sudan,Sub-Saharan Africa,2020,Low income,43849,35,60,74
+SUR,Suriname,Latin America & Caribbean,2015,Upper middle income,559,66,96,98
+SUR,Suriname,Latin America & Caribbean,2020,Upper middle income,587,66,98,99
+SWE,Sweden,Europe & Central Asia,2015,High income,9765,87,100,100
+SWE,Sweden,Europe & Central Asia,2020,High income,10099,88,100,100
+CHE,Switzerland,Europe & Central Asia,2015,High income,8297,74,100,100
+CHE,Switzerland,Europe & Central Asia,2020,High income,8655,74,100,100
+SYR,Syrian Arab Republic,Middle East & North Africa,2015,Lower middle income,17997,52,94,95
+SYR,Syrian Arab Republic,Middle East & North Africa,2020,Low income,17501,55,94,95
+TJK,Tajikistan,Europe & Central Asia,2015,Lower middle income,8454,27,76,95
+TJK,Tajikistan,Europe & Central Asia,2020,Lower middle income,9538,28,82,96
+THA,Thailand,East Asia & Pacific,2015,Upper middle income,68715,48,100,100
+THA,Thailand,East Asia & Pacific,2020,Upper middle income,69800,51,100,100
+TLS,Timor-Leste,East Asia & Pacific,2015,Lower middle income,1196,29,75,90
+TLS,Timor-Leste,East Asia & Pacific,2020,Lower middle income,1318,31,85,96
+TGO,Togo,Sub-Saharan Africa,2015,Low income,7323,40,64,88
+TGO,Togo,Sub-Saharan Africa,2020,Low income,8279,43,69,91
+TON,Tonga,East Asia & Pacific,2015,Lower middle income,101,23,99,100
+TON,Tonga,East Asia & Pacific,2020,Upper middle income,106,23,99,100
+TUN,Tunisia,Middle East & North Africa,2015,Lower middle income,11180,68,95,100
+TUN,Tunisia,Middle East & North Africa,2020,Lower middle income,11819,70,98,100
+TKM,Turkmenistan,Europe & Central Asia,2015,Upper middle income,5565,50,98,100
+TKM,Turkmenistan,Europe & Central Asia,2020,Upper middle income,6031,53,100,100
+TUV,Tuvalu,East Asia & Pacific,2015,Upper middle income,11,60,100,100
+TUV,Tuvalu,East Asia & Pacific,2020,Upper middle income,12,64,100,100
+UGA,Uganda,Sub-Saharan Africa,2015,Low income,38225,22,48,77
+UGA,Uganda,Sub-Saharan Africa,2020,Low income,45741,25,56,79
+UKR,Ukraine,Europe & Central Asia,2015,Lower middle income,44922,69,94,92
+UKR,Ukraine,Europe & Central Asia,2020,Lower middle income,43734,69,94,92
+GBR,United Kingdom,Europe & Central Asia,2015,High income,65860,83,100,100
+GBR,United Kingdom,Europe & Central Asia,2020,High income,67886,84,100,100
+USA,United States of America,North America,2015,High income,320878,82,100,100
+USA,United States of America,North America,2020,High income,331003,83,100,100
+URY,Uruguay,Latin America & Caribbean,2015,High income,3412,95,100,100
+URY,Uruguay,Latin America & Caribbean,2020,High income,3474,96,100,100
+UZB,Uzbekistan,Europe & Central Asia,2015,Lower middle income,30930,51,98,100
+UZB,Uzbekistan,Europe & Central Asia,2020,Lower middle income,33469,50,98,100
+VUT,Vanuatu,East Asia & Pacific,2015,Lower middle income,271,25,90,100
+VUT,Vanuatu,East Asia & Pacific,2020,Lower middle income,307,26,91,100
+VNM,Vietnam,East Asia & Pacific,2015,Lower middle income,92677,34,93,98
+VNM,Vietnam,East Asia & Pacific,2020,Lower middle income,97339,37,97,100
+ZMB,Zambia,Sub-Saharan Africa,2015,Lower middle income,15879,42,61,86
+ZMB,Zambia,Sub-Saharan Africa,2020,Lower middle income,18384,45,65,87
+ZWE,Zimbabwe,Sub-Saharan Africa,2015,Low income,13815,32,65,94
+ZWE,Zimbabwe,Sub-Saharan Africa,2020,Lower middle income,14863,32,63,93

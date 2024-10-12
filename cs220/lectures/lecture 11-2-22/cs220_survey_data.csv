@@ -1,0 +1,993 @@
+Lecture,Age,Major,Zip Code,Latitude,Longitude,Pizza topping,Pet preference,Runner,Sleep habit,Procrastinator
+LEC001,22,Engineering: Biomedical,53703,43.073051,-89.40123,none (just cheese),neither,No,no preference,Maybe
+LEC006,,Undecided,53706,43.073051,-89.40123,none (just cheese),neither,No,no preference,Maybe
+LEC004,18,Engineering: Industrial,53715,43.073051,-89.40123,none (just cheese),neither,No,no preference,Maybe
+LEC005,,Undecided,53706,43.073051,-89.40123,none (just cheese),neither,No,no preference,Maybe
+LEC002,,Undecided,53706,43.073051,-89.40123,none (just cheese),neither,No,no preference,Maybe
+LEC004,18,Engineering: Other|Engineering: Computer,53706,43.073051,-89.40123,none (just cheese),neither,No,no preference,Maybe
+LEC003,,Undecided,53706,43.073051,-89.40123,none (just cheese),neither,No,no preference,Maybe
+LEC003,18,Data Science,53715,43.073051,-89.40123,pineapple,cat,Yes,no preference,Maybe
+LEC006,18,Data Science,53706,35.4,119.11,none (just cheese),dog,No,night owl,Yes
+LEC006,18,Mathematics/AMEP,53706,44,-93,pepperoni,dog,No,night owl,Yes
+LEC002,21,Engineering: Other,53703,24.713552,46.675297,none (just cheese),cat,Yes,night owl,Maybe
+LEC003,19,Data Science,53705,24.6806,46.57936,pineapple,cat,No,early bird,No
+LEC004,24,Economics,53703,43,-89,pineapple,cat,Yes,early bird,Yes
+LEC003,18,Data Science,53706,36.102371,-115.174553,none (just cheese),dog,No,night owl,Yes
+LEC006,22,Psychology,53703,31.78,119.95,mushroom,cat,No,night owl,Yes
+LEC005,20,Data Science,53705,37.8,112.5,pepperoni,cat,Yes,night owl,Yes
+LEC004,24,Science: Biology/Life,53703,46.872131,-113.994019,pepperoni,dog,Yes,early bird,Yes
+LEC004,17,Engineering: Mechanical,53706,46.6242,8.0414,pineapple,dog,No,night owl,Yes
+LEC004,19,Engineering: Mechanical,53726,43.073051,-89.40123,none (just cheese),dog,Yes,early bird,No
+LEC002,19,Engineering: Mechanical,57303,41.878113,-87.629799,pineapple,dog,No,night owl,Yes
+LEC001,,Mathematics/AMEP,53706,31.230391,121.473701,basil/spinach,dog,No,no preference,Maybe
+LEC002,19,Mathematics/AMEP,53558,40.712776,-74.005974,sausage,dog,Yes,night owl,Yes
+LEC001,20,Economics (Mathematical Emphasis),53703,48.86,2.3522,pepperoni,dog,No,early bird,Yes
+LEC001,19,Engineering: Mechanical,53703,24.7,46.7,mushroom,dog,Yes,early bird,Maybe
+LEC005,18,Computer Science,53703,37.338207,-121.88633,green pepper,dog,Yes,night owl,Yes
+LEC003,19,Engineering: Mechanical,53558,43.073051,-89.40123,pepperoni,dog,No,night owl,Yes
+LEC005,20,Engineering: Mechanical,53715,38.9072,-77.0369,Other,cat,No,night owl,Yes
+LEC003,20,Data Science,53703,43.073051,-89.40123,pepperoni,dog,No,night owl,Yes
+LEC002,21,Science: Other|Political Science,53703,31.768318,35.213711,pepperoni,dog,No,no preference,Maybe
+LEC003,19,Mathematics/AMEP,53715,19.075983,72.877655,basil/spinach,cat,No,night owl,Maybe
+LEC001,23,Computer Science,53711,43.073929,-89.385239,sausage,dog,No,night owl,Yes
+LEC006,21,Business: Other,53715,25.761681,-80.191788,pepperoni,dog,No,night owl,Yes
+LEC003,19,Business: Other|Real Estate,53715,117,33,pepperoni,dog,Yes,night owl,No
+LEC004,19,Computer Science,53726,47.037872,-122.900696,tater tots,dog,No,night owl,Yes
+LEC004,24,Economics,53703,23.12911,113.264381,pepperoni,cat,Yes,early bird,Maybe
+LEC005,19,Data Science,53703,64.49796,165.40998,sausage,dog,No,night owl,Yes
+LEC003,19,Data Science,53705,25,47,mushroom,cat,No,early bird,Maybe
+LEC005,20,Engineering: Other|Engineering Physics: Scientific Computing,53715,43.073051,-89.4,none (just cheese),dog,No,night owl,Yes
+LEC005,20,Computer Science,53703,48.856613,2.352222,pepperoni,dog,No,night owl,Yes
+LEC002,19,Business: Finance,53726,43.04156,87.91006,pepperoni,dog,No,night owl,Yes
+LEC002,21,Data Science,53713,29.868336,121.543991,mushroom,dog,No,night owl,No
+LEC004,19,Computer Science,53715,40.712776,-74.005974,pepperoni,dog,No,night owl,Maybe
+LEC003,18,Computer Science,53706,5.93876,80.48433,Other,dog,No,night owl,Maybe
+LEC005,19,Engineering: Mechanical,53704,38.7,-77,pepperoni,cat,Yes,no preference,No
+LEC004,18,Engineering: Mechanical,53726,41.878113,-87.629799,pepperoni,dog,No,night owl,Maybe
+LEC005,19,Engineering: Other,53703,36.169941,-115.139832,pepperoni,dog,No,night owl,Maybe
+LEC005,19,Engineering: Mechanical,53703,43.078104,-89.431698,pepperoni,dog,Yes,night owl,Yes
+LEC006,18,Engineering: Biomedical,53051,33.6846,117.8265,pepperoni,dog,Yes,night owl,Yes
+LEC001,22,Engineering: Mechanical,53719,43.073051,-89.40123,none (just cheese),cat,Yes,night owl,Yes
+LEC001,18,Computer Science,53706,26.2992,87.2625,mushroom,dog,Yes,night owl,No
+LEC001,24,Business: Information Systems,53703,43.073051,-89.40123,macaroni/pasta,cat,No,night owl,No
+LEC006,19,Engineering: Mechanical,53703,43.04049,-87.91732,Other,dog,No,night owl,Yes
+LEC001,,Computer Science,53715,34.052235,-118.243683,green pepper,dog,No,night owl,Yes
+LEC002,20,Statistics,53703,40.7128,74.006,Other,dog,No,night owl,Maybe
+LEC005,23,Computer Science,53703,37.5,126.97,pepperoni,dog,No,night owl,No
+LEC002,21,Statistics,53703,52.370216,4.895168,pepperoni,dog,Yes,early bird,Maybe
+LEC002,18,Undecided,53706,38.56247,-121.70411,pepperoni,dog,Yes,night owl,Yes
+LEC006,18,Statistics,53706,40.712776,40.712776,pepperoni,dog,No,night owl,Yes
+LEC003,21,Economics,53715,43.073051,-89.40123,none (just cheese),dog,No,night owl,Yes
+LEC003,19,Engineering: Mechanical,53715,45,-93,sausage,dog,No,night owl,No
+LEC005,21,Business: Finance,53717,40.6461,-111.498,sausage,dog,No,night owl,Yes
+LEC001,26,Engineering: Mechanical,53703,41.902782,12.496365,pepperoni,dog,No,night owl,Yes
+LEC001,25,Economics,53703,40.712776,-74.005974,pepperoni,dog,No,night owl,Yes
+LEC003,18,Mathematics/AMEP,53706,31.230391,121.473701,mushroom,dog,Yes,early bird,No
+LEC001,19,Computer Science,53706,48.855709,2.29889,pepperoni,cat,Yes,night owl,Yes
+LEC005,17,Science: Biology/Life,53706,-18.766947,46.869106,basil/spinach,dog,Yes,early bird,Maybe
+LEC003,19,Business: Information Systems,53711,38.893452,-77.014709,pepperoni,dog,No,early bird,Yes
+LEC001,21,Computer Science,53715,16.306652,80.436539,Other,dog,No,night owl,Yes
+LEC006,19,Data Science,53703,35.689487,139.691711,sausage,neither,Yes,no preference,Maybe
+LEC004,18,Engineering: Industrial,53706,17.385044,78.486671,mushroom,dog,No,early bird,Yes
+LEC004,19,Computer Science,53715,37.774929,-122.419418,pepperoni,dog,No,night owl,Maybe
+LEC004,19,Data Science,53703,26.2644,20.3052,pepperoni,dog,No,night owl,Yes
+LEC005,18,Data Science,53706,40.712776,-74.005974,pepperoni,dog,Yes,no preference,Yes
+LEC002,18,Data Science,53706,36,117,Other,dog,No,early bird,Maybe
+LEC005,19,Data Science,50703,42.360081,-71.058884,sausage,cat,No,night owl,No
+LEC006,19,Computer Science,53711,36.569666,112.218744,pineapple,neither,Yes,early bird,Maybe
+LEC005,18,Computer Science,53706,37.54443,-121.95269,pepperoni,dog,No,night owl,Maybe
+LEC003,20,Mathematics/AMEP,53715,32.0853,34.781769,mushroom,dog,No,no preference,Yes
+LEC003,19,Data Science,53715,42.701847,-84.48217,tater tots,dog,No,night owl,Yes
+LEC003,18,Mathematics/AMEP,53706,40.179188,44.499104,Other,dog,Yes,no preference,Yes
+LEC002,,Computer Science,53711,2.81375,101.504272,sausage,dog,Yes,no preference,Maybe
+LEC001,18,Engineering: Industrial,53715,30.733315,76.779419,green pepper,cat,No,no preference,Yes
+LEC003,21,Data Science,53590,7.9519,98.3381,Other,dog,Yes,early bird,Yes
+LEC004,19,Data Science,53715,35.69,139.69,mushroom,dog,No,no preference,Maybe
+LEC002,19,Data Science,53704,26.473308,50.048218,Other,cat,Yes,night owl,Yes
+LEC002,22,Economics,53703,34.052235,-118.243683,pineapple,dog,No,night owl,Yes
+LEC006,18,Data Science,53706,19.075983,72.877655,mushroom,dog,Yes,night owl,Yes
+LEC003,,Business: Actuarial,53705,39.6336,118.16,basil/spinach,dog,Yes,early bird,Yes
+LEC003,18,Data Science,53706,52.370216,4.895168,mushroom,cat,Yes,no preference,No
+LEC003,18,Engineering: Mechanical,53706,52.368944,4.891663,pepperoni,cat,No,night owl,No
+LEC002,18,Science: Physics,53703,32,118,sausage,neither,No,night owl,No
+LEC005,18,Data Science,53706,17.384716,78.409424,mushroom,dog,Yes,night owl,Maybe
+LEC003,19,Data Science,53715,3.1569,101.7123,mushroom,cat,No,early bird,No
+LEC005,18,Computer Science,53706,43.769562,11.255814,Other,neither,No,night owl,Yes
+LEC006,18,Business: Actuarial,53706,48.856613,2.352222,mushroom,cat,No,no preference,Yes
+LEC004,20,Business: Actuarial,53711,40.7128,74.006,pepperoni,dog,Yes,early bird,No
+LEC005,20,Science: Biology/Life,53703,44.67082,-93.24432,mushroom,dog,No,no preference,Maybe
+LEC004,18,Mathematics/AMEP,53706,46.786671,-92.100487,pepperoni,cat,No,early bird,Yes
+LEC005,20,Economics,53703,48.856613,2.352222,pepperoni,neither,No,night owl,Maybe
+LEC006,18,Business: Finance,53706,40.409264,49.867092,Other,neither,No,early bird,No
+LEC004,21,Computer Science,53715,27.993828,120.699364,green pepper,dog,Yes,no preference,No
+LEC002,,Computer Science,53706,43.073051,-89.40123,Other,neither,Yes,no preference,Maybe
+LEC002,20,Engineering: Mechanical,53706,35.6762,139.6503,sausage,cat,Yes,night owl,Yes
+LEC001,20,Economics (Mathematical Emphasis),53703,43.073929,-89.385239,macaroni/pasta,cat,No,night owl,No
+LEC002,21,Business: Information Systems,53713,43.03638,-89.40292,pineapple,neither,Yes,night owl,Yes
+LEC004,18,Data Science,53706,45.31625,-92.59181,pepperoni,dog,No,night owl,Yes
+LEC001,21,Business: Finance,53711,43.073929,-89.385239,pepperoni,dog,No,no preference,Maybe
+LEC005,19,Engineering: Mechanical,53715,35.689487,139.691711,pepperoni,dog,No,night owl,Yes
+LEC003,18,Computer Science,53706,51.500153,-0.1262362,pepperoni,dog,No,night owl,Yes
+LEC002,22,Science: Biology/Life,53711,43.073051,-89.40123,mushroom,cat,No,no preference,No
+LEC004,18,Data Science,53706,42.360081,-71.058884,green pepper,dog,No,night owl,Yes
+LEC005,19,Engineering: Mechanical,53703,32.8328,117.2713,sausage,neither,Yes,night owl,Yes
+LEC003,20,Engineering: Mechanical,53715,44.834,-87.376,none (just cheese),dog,Yes,night owl,No
+LEC006,21,Economics,53703,41.902782,12.496365,none (just cheese),dog,No,no preference,Yes
+LEC003,25,Data Science,53703,34.693737,135.502167,pineapple,dog,No,early bird,Maybe
+LEC003,17,Computer Science,53703,19.075983,72.877655,Other,neither,Yes,no preference,No
+LEC002,19,Psychology,53715,30.5928,114.3052,sausage,cat,No,night owl,Yes
+LEC001,19,Computer Science,53703,51.507351,-0.127758,sausage,cat,Yes,no preference,Yes
+LEC006,17,Engineering: Industrial,53706,55.953251,-3.188267,Other,dog,No,night owl,Yes
+LEC005,,Computer Science,53703,43.073051,-89.40123,pineapple,dog,Yes,night owl,No
+LEC002,21,Engineering: Mechanical,53705,37.566536,126.977966,mushroom,cat,Yes,no preference,Maybe
+LEC002,18,Undecided,53715,48.775845,9.182932,Other,dog,No,night owl,Yes
+LEC004,19,Data Science,53703,43,-89,sausage,cat,No,early bird,Maybe
+LEC001,21,Science: Biology/Life,53703,36,117,macaroni/pasta,dog,No,night owl,Maybe
+LEC002,19,Business: Information Systems,53703,42.360081,-71.058884,pepperoni,dog,No,no preference,Yes
+LEC005,19,Computer Science,53706,-8.340539,115.091949,pineapple,dog,Yes,night owl,Maybe
+LEC003,20,Business: Information Systems,53726,43.073051,-89.40123,sausage,dog,Yes,night owl,No
+LEC003,,Science: Other,53715,39.904202,116.407394,mushroom,cat,No,night owl,Maybe
+LEC004,20,Engineering: Biomedical,53715,43.0707,12.6196,tater tots,dog,No,night owl,Maybe
+LEC004,19,Engineering: Biomedical,53715,41.878113,-87.629799,mushroom,dog,Yes,night owl,Yes
+LEC002,21,Business: Other|Accounting,53703,41.8781,87.6298,pepperoni,cat,No,night owl,No
+LEC002,17,Undecided,53706,33.742185,-84.386124,Other,dog,No,no preference,Yes
+LEC006,18,Data Science,53558,40.73061,-73.935242,pepperoni,dog,Yes,night owl,No
+LEC003,25,Data Science,53705,43.073051,-89.385239,sausage,cat,No,night owl,Maybe
+LEC002,18,Data Science,53706,37.34163,-122.05411,sausage,dog,No,night owl,Yes
+LEC006,18,Science: Biology/Life,53706,19.21833,72.978088,green pepper,neither,No,no preference,Maybe
+LEC002,,Business: Other|business analytics,53703,31.230391,121.473701,none (just cheese),cat,Yes,night owl,Maybe
+LEC003,,Data Science,53706,35.719312,139.784546,none (just cheese),neither,Yes,night owl,Yes
+LEC002,19,Engineering: Mechanical,53726,47.141041,9.52145,mushroom,dog,No,night owl,Yes
+LEC002,,Computer Science,53715,41.8781,87.6298,pepperoni,dog,No,no preference,Maybe
+LEC002,26,Science: Other|animal sciences,53705,25.204849,55.270782,pepperoni,dog,No,no preference,Maybe
+LEC003,21,Mathematics,53704,61.218056,-149.900284,green pepper,cat,Yes,early bird,Maybe
+LEC003,22,Engineering: Other,53703,49.28273,-123.120735,macaroni/pasta,cat,No,early bird,Maybe
+LEC001,18,Engineering: Other,53706,41.902782,12.496365,pepperoni,dog,No,night owl,Yes
+LEC003,20,Engineering: Mechanical,53726,39.81059,-74.71795,basil/spinach,dog,No,early bird,Yes
+LEC003,21,Health Promotion and Health Equity,53711,37.2982,113.0263,pepperoni,dog,No,early bird,No
+LEC003,20,Engineering: Mechanical,53703,38.722252,-9.139337,mushroom,dog,No,night owl,Yes
+LEC003,19,Engineering: Mechanical,53714,43,-89.4,none (just cheese),dog,No,night owl,Yes
+LEC002,19,Engineering: Industrial,53703,41.878,-87.63,pepperoni,dog,Yes,night owl,Yes
+LEC003,18,Computer Science,53706,43.073051,-89.40123,mushroom,neither,No,night owl,Yes
+LEC001,18,Engineering: Industrial,53706,19.655041,-101.169891,pepperoni,dog,Yes,no preference,Maybe
+LEC005,20,Engineering: Mechanical,53703,26.147,-81.795,pepperoni,dog,Yes,early bird,Yes
+LEC006,18,Business: Other,53706,51.507,-0.128,sausage,dog,No,no preference,No
+LEC005,19,Business: Other,53706,43,-89,pepperoni,dog,Yes,no preference,Yes
+LEC004,19,Engineering: Mechanical,53705,34.869709,-111.760902,pepperoni,cat,No,no preference,Maybe
+LEC005,21,Business: Finance,53703,3.15443,101.715103,pepperoni,cat,No,night owl,Yes
+LEC005,18,Engineering: Mechanical,53706,44.655991,-93.242752,none (just cheese),dog,Yes,night owl,Yes
+LEC003,18,Art,53706,36.25,138.25,macaroni/pasta,dog,No,night owl,Yes
+LEC005,19,Data Science,53715,41.94288,-87.68667,pepperoni,dog,Yes,night owl,Yes
+LEC005,18,Data Science,53703,44.2795,73.9799,pepperoni,dog,Yes,night owl,No
+LEC002,19,Mathematics/AMEP,53715,37.80718,23.734864,pineapple,cat,No,night owl,Yes
+LEC004,18,Computer Science,53706,35.689487,139.691711,pepperoni,cat,No,night owl,Yes
+LEC006,18,Engineering: Mechanical,53706,43.0826,-97.16051,pepperoni,dog,No,no preference,Yes
+LEC006,18,Engineering: Other,53715,37.441883,-122.143021,mushroom,dog,Yes,night owl,Maybe
+LEC006,18,Engineering: Mechanical,53706,44.883,-87.86291,pepperoni,dog,No,early bird,Yes
+LEC004,19,Engineering: Mechanical,53706,40.73598,-74.37531,none (just cheese),dog,Yes,early bird,No
+LEC001,20,Business: Actuarial,53703,42.28,-83.74,mushroom,dog,No,night owl,Yes
+LEC003,17,Engineering: Mechanical,53706,37.98381,23.727539,pineapple,dog,Yes,night owl,No
+LEC004,18,Computer Science,53706,40.27385,-74.75972,sausage,dog,Yes,night owl,Yes
+LEC002,19,Economics,53703,90.1994,38.627,none (just cheese),dog,No,early bird,Yes
+LEC002,21,"Mathematics, Data Science",53703,30.572815,104.066803,sausage,dog,No,night owl,Maybe
+LEC002,,Computer Science,53717,36,139,mushroom,dog,Yes,early bird,Yes
+LEC006,19,Science: Biology/Life,53715,45.289143,-87.021847,none (just cheese),cat,No,night owl,Maybe
+LEC002,21,Mathematics/AMEP,53703,20.878332,-156.682495,pepperoni,cat,No,night owl,Yes
+LEC003,22,Mathematics/AMEP,53715,44.481586,-88.005981,pepperoni,neither,No,night owl,Yes
+LEC006,18,Data Science,53706,43.073051,-89.40123,pepperoni,dog,No,night owl,Yes
+LEC005,18,Computer Science,53706,30.733315,76.779419,none (just cheese),dog,No,night owl,Yes
+LEC005,20,Mathematics/AMEP,53703,38.837702,-238.449497,pepperoni,dog,No,night owl,Yes
+LEC005,,Computer Science,53593,50.116322,-122.957359,sausage,dog,No,night owl,Yes
+LEC005,18,Computer Science,53715,43.059023,-89.296875,pepperoni,cat,No,night owl,Maybe
+LEC005,19,Engineering: Industrial,53703,22.2255,-159.4835,pepperoni,cat,Yes,night owl,Yes
+LEC005,18,Engineering: Biomedical,53593,43.073051,-89.40123,green pepper,cat,No,night owl,Maybe
+LEC005,20,Engineering: Mechanical,53715,41.283211,-70.099228,sausage,dog,No,no preference,Maybe
+LEC005,18,Data Science,53715,25.26741,55.292679,basil/spinach,cat,Yes,early bird,Yes
+LEC005,19,Business: Other,53726,43.038902,-87.906471,pepperoni,dog,No,night owl,Yes
+LEC002,,Undecided,53703,30.5723,104.0665,sausage,dog,No,night owl,Yes
+LEC006,18,Engineering: Mechanical,53706,30.2672,97.7431,pepperoni,dog,No,night owl,No
+LEC006,20,Data Science,53703,36.731651,-119.785858,Other,dog,Yes,night owl,Yes
+LEC005,18,Computer Science,53706,43.038902,-87.906471,pepperoni,dog,No,night owl,Yes
+LEC004,,Business: Finance,53703,33.8688,151.2093,green pepper,dog,Yes,night owl,Yes
+LEC005,18,Science: Other|Science: Genetics and Genomics,53715,43.073051,-89.40123,mushroom,dog,No,no preference,Yes
+LEC003,19,Engineering: Mechanical,53715,44.90767,-93.183594,basil/spinach,dog,No,night owl,Maybe
+LEC006,18,Business: Finance,53706,-33.448891,-70.669266,macaroni/pasta,dog,No,night owl,Yes
+LEC006,17,Business: Finance,53706,43.296482,5.36978,pineapple,dog,No,night owl,Yes
+LEC006,21,Mathematics/AMEP,53703,30.572815,104.066803,green pepper,dog,No,no preference,Maybe
+LEC005,20,Engineering: Mechanical,53703,41.99884,-87.68828,Other,dog,No,no preference,No
+LEC001,19,Business: Information Systems,53703,39.481655,-106.038353,macaroni/pasta,dog,Yes,night owl,Yes
+LEC004,19,Engineering: Mechanical,53703,41.883228,-87.632401,pepperoni,dog,No,no preference,Maybe
+LEC004,18,Engineering: Industrial,53706,41.878113,41.878113,pepperoni,dog,No,night owl,No
+LEC004,19,Engineering: Mechanical,53703,28.228209,112.938812,none (just cheese),neither,Yes,early bird,Yes
+LEC003,18,Data Science,89451,34.42083,-119.698189,green pepper,dog,No,early bird,No
+LEC003,19,Computer Science,53703,41.3874,2.1686,pepperoni,cat,No,early bird,No
+LEC005,20,Science: Biology/Life,53703,32.05196,118.77803,sausage,neither,No,night owl,Yes
+LEC004,19,Engineering: Mechanical,53706,50.075539,14.4378,none (just cheese),neither,No,night owl,Yes
+LEC003,20,Statistics (actuarial route),53715,43.134315,-88.220062,sausage,dog,No,early bird,No
+LEC004,19,Computer Science,53706,17.385044,78.486671,pepperoni,neither,Yes,night owl,Yes
+LEC002,18,Engineering: Mechanical,53706,53707,-88.415382,Other,dog,No,night owl,Yes
+LEC004,19,Computer Science,53706,45.440845,12.315515,sausage,dog,No,night owl,Yes
+LEC004,18,Computer Science,53706,55.953251,-3.188267,Other,dog,No,night owl,Maybe
+LEC004,18,Engineering: Mechanical,53706,33.8902,-118.39848,sausage,dog,Yes,night owl,Yes
+LEC001,20,Business: Other|Business: Accounting,53703,31.230391,121.473701,pepperoni,cat,Yes,no preference,No
+LEC004,18,Data Science,53706,39.512611,116.677063,pepperoni,dog,No,night owl,Maybe
+LEC003,18,Undecided,53706,41.256538,95.934502,Other,dog,No,no preference,Yes
+LEC003,18,Data Science,53706,19.075983,72.877655,pepperoni,dog,No,night owl,No
+LEC003,22,Economics,53703,40.753685,-73.999161,green pepper,dog,No,night owl,Maybe
+LEC003,18,Data Science,53706,51.507351,-0.127758,pepperoni,cat,No,night owl,Yes
+LEC003,,Engineering: Mechanical,53706,42.44817,-71.224716,pepperoni,cat,Yes,night owl,Maybe
+LEC003,17,Engineering: Other|Computer Engineering,53706,42.36,-71.059,basil/spinach,neither,No,early bird,Maybe
+LEC003,21,Business: Actuarial,53706,32.715736,-117.161087,green pepper,dog,Yes,night owl,No
+LEC003,,Engineering: Other|Computer engineering,53706,35.689487,139.691711,Other,cat,No,night owl,Yes
+LEC003,18,Mathematics/AMEP,53715,41.385063,2.173404,pepperoni,cat,Yes,no preference,Maybe
+LEC003,20,Computer Science,53705,30.274084,120.155067,mushroom,cat,No,night owl,Yes
+LEC005,,Computer Science,53705,51.507351,-0.127758,basil/spinach,dog,No,night owl,Yes
+LEC003,18,Computer Science,53706,45.45676,15.29662,sausage,dog,Yes,early bird,Yes
+LEC003,18,Engineering: Industrial,53706,18.92421,-99.221565,green pepper,dog,Yes,night owl,Yes
+LEC004,18,Engineering: Other|Material Science Engineering,53703,38.941631,-119.977219,pepperoni,dog,Yes,night owl,Yes
+LEC002,21,Economics,53705,25.03841,121.5637,pepperoni,cat,No,night owl,Maybe
+LEC005,,Civil engineering - hydropower engineering,53705,34,113,pineapple,neither,No,night owl,Maybe
+LEC005,18,Computer Science,53706,40.7,-74.005,pepperoni,cat,No,early bird,No
+LEC001,19,Engineering: Mechanical,53706,35.142441,-223.154297,green pepper,neither,Yes,night owl,Yes
+LEC006,18,Data Science,53706,43.05891,-88.007462,pepperoni,dog,Yes,night owl,Yes
+LEC006,,Engineering: Mechanical,53706,37.566536,126.977966,pepperoni,dog,Yes,night owl,No
+LEC005,18,Data Science,53706,36.393154,25.46151,none (just cheese),dog,No,night owl,No
+LEC001,,Engineering: Mechanical,53715,19.8968,155.5828,pepperoni,dog,No,night owl,No
+LEC002,19,Engineering: Biomedical,53706,48.494904,-113.979034,macaroni/pasta,cat,No,night owl,Yes
+LEC005,18,Engineering: Mechanical,53706,41.88998,12.49426,pineapple,dog,Yes,night owl,Yes
+LEC003,17,Data Science,53706,-7.257472,112.75209,pineapple,dog,Yes,early bird,Yes
+LEC005,19,Economics,53703,40.592331,-111.820152,none (just cheese),dog,Yes,night owl,Maybe
+LEC005,19,Data Science,53704,38.722252,-9.139337,pepperoni,dog,No,night owl,Yes
+LEC003,,Computer Science,53703,64.963051,-19.020836,pineapple,dog,No,no preference,Maybe
+LEC002,20,Economics,53703,43.769562,11.255814,mushroom,dog,No,night owl,Yes
+LEC004,20,Business: Actuarial,53715,44.834209,-87.376266,sausage,dog,No,no preference,Yes
+LEC005,21,Economics,53703,37.751824,-122.420105,green pepper,cat,No,night owl,Yes
+LEC004,22,Economics,53703,56.490669,4.202646,mushroom,dog,No,no preference,Yes
+LEC004,18,Engineering: Mechanical,53706,44.9058,-93.28535,pepperoni,cat,Yes,night owl,Maybe
+LEC004,19,Data Science,53703,41.878113,-87.629799,sausage,dog,No,night owl,Yes
+LEC001,21,Computer Science,53703,43.21518,-87.94241,pepperoni,dog,No,no preference,Maybe
+LEC004,24,Science: Chemistry,53703,32.715736,-117.161087,mushroom,dog,Yes,night owl,Maybe
+LEC005,19,Engineering: Mechanical,53715,39.412327,-77.425461,pepperoni,cat,Yes,early bird,Yes
+LEC004,20,Statistics,53703,43.07391,-89.39356,pepperoni,dog,No,early bird,Maybe
+LEC005,21,Business: Finance,53703,38.178127,-92.781052,mushroom,dog,No,night owl,Yes
+LEC004,18,Engineering: Mechanical,53706,35.689487,139.691711,pepperoni,dog,No,no preference,Yes
+LEC005,18,Data Science,60521,41.9,87.6,pepperoni,dog,Yes,night owl,Yes
+LEC005,23,Business: Information Systems,53558,43.073051,-89.40123,pepperoni,dog,Yes,early bird,No
+LEC004,18,Engineering: Mechanical,53706,43.739507,7.426706,pepperoni,dog,No,night owl,Yes
+LEC005,21,Data Science,53703,25,121,pepperoni,dog,No,night owl,Yes
+LEC005,20,Business: Information Systems,53703,43.073051,-89.40123,pepperoni,dog,Yes,night owl,Yes
+LEC004,,Engineering: Biomedical,53715,41.385063,2.173404,pepperoni,dog,Yes,no preference,No
+LEC004,18,Communication arts,53715,22.543097,114.057861,mushroom,cat,Yes,early bird,Yes
+LEC001,22,Engineering: Mechanical,53703,47.497913,19.040236,pepperoni,dog,No,no preference,No
+LEC005,19,Computer Science,54706,34.05,-118.24,sausage,cat,Yes,night owl,Yes
+LEC005,18,Engineering: Biomedical,53706,46.818188,8.227512,pineapple,dog,Yes,no preference,Yes
+LEC004,19,Engineering: Mechanical,53715,42.36,-71.058884,pepperoni,dog,Yes,no preference,Yes
+LEC005,21,Data Science,53703,36.4,117,pineapple,dog,Yes,night owl,Yes
+LEC005,19,Engineering: Mechanical,53704,35.6762,139.6503,sausage,dog,No,night owl,Maybe
+LEC004,20,Economics,53703,44.885,-93.147,pepperoni,dog,No,early bird,Yes
+LEC004,20,Health Promotion and Health Equity,53704,48.8566,2.349014,pepperoni,dog,No,night owl,Yes
+LEC004,19,Engineering: Mechanical,53715,43.073051,-89.40123,sausage,dog,Yes,no preference,Yes
+LEC001,20,Business andministration,53703,37.389091,-5.984459,pineapple,dog,Yes,night owl,Maybe
+LEC003,23,Mathematics/AMEP,53715,24.88,102.8,pineapple,dog,Yes,early bird,Yes
+LEC002,20,Engineering: Industrial,53703,44.389,12.9908,sausage,dog,No,early bird,Maybe
+LEC005,20,Education,53703,41.878113,-87.629799,basil/spinach,cat,Yes,early bird,No
+LEC003,19,Science: Biology/Life,53703,41.38,2.17,pepperoni,dog,Yes,no preference,Maybe
+LEC006,18,Pre-business,53706,41.8781,87.6298,pepperoni,dog,Yes,night owl,Yes
+LEC004,20,Business: Finance,53706,41.10475,-80.64916,basil/spinach,dog,Yes,night owl,Yes
+LEC004,20,Statistics,53703,42.360081,-71.058884,pepperoni,dog,No,night owl,Yes
+LEC003,18,Engineering: Mechanical,53706,24.5554,81.7842,pepperoni,dog,No,early bird,Maybe
+LEC004,19,Data Science,53703,38.72,75.07,none (just cheese),dog,Yes,early bird,Yes
+LEC006,20,Engineering: Mechanical,53705,30.572815,104.066803,mushroom,cat,Yes,no preference,Maybe
+LEC003,20,Mathematics/AMEP,53726,43.07199,-89.42629,mushroom,dog,No,night owl,Yes
+LEC004,20,Engineering: Mechanical,53705,48,7.85,pepperoni,dog,Yes,night owl,No
+LEC001,20,Computer Science,53703,40.7128,74.006,pepperoni,dog,Yes,night owl,Maybe
+LEC003,18,Business: Actuarial,53719,14.599512,120.984222,pineapple,cat,Yes,no preference,Maybe
+LEC003,17,Computer Science,53715,37.38522,-122.114128,Other,dog,No,night owl,No
+LEC003,18,Computer Science,53706,37.386051,-122.083855,sausage,dog,Yes,no preference,Maybe
+LEC004,23,Business: Finance,53703,31.230391,121.473701,mushroom,neither,No,night owl,No
+LEC004,21,Engineering: Industrial,53703,37.94048,-78.63664,Other,dog,Yes,night owl,Yes
+LEC002,21,Mathematics/AMEP,53715,42.360081,-71.058884,mushroom,neither,Yes,early bird,Yes
+LEC002,18,Engineering: Industrial,53715,40.712776,-74.005974,pineapple,dog,Yes,night owl,Yes
+LEC001,22,Engineering: Mechanical,53726,36.97447,122.02899,pepperoni,dog,No,no preference,Yes
+LEC005,,Mathematics/AMEP,53715,36.651199,117.120094,mushroom,neither,No,night owl,Yes
+LEC005,18,Mathematics/AMEP,53706,46.482525,30.723309,basil/spinach,dog,No,early bird,Yes
+LEC006,20,Engineering: Industrial,53703,42.102901,-88.368896,pepperoni,dog,No,night owl,Maybe
+LEC006,18,Computer Science,53706,-31.959153,-244.161255,green pepper,dog,No,night owl,Yes
+LEC002,24,Computer Science,53715,30.704852,104.003904,mushroom,neither,Yes,no preference,Maybe
+LEC005,19,Engineering: Mechanical,53705,40.712776,-74.005974,pepperoni,dog,No,early bird,No
+LEC004,22,Science: Biology/Life,53705,39.758161,39.758161,pepperoni,cat,No,early bird,Yes
+LEC005,20,Statistics,53703,43.073051,-89.40123,sausage,dog,Yes,night owl,Yes
+LEC001,19,Data Science,53703,41,87,sausage,dog,No,no preference,No
+LEC004,20,Engineering: Mechanical,53726,58.2996,14.4444,sausage,cat,No,night owl,Maybe
+LEC005,18,Engineering: Mechanical,53562,1.3521,103.8198,green pepper,cat,No,early bird,Maybe
+LEC002,19,Engineering: Mechanical,53703,44.46534,-72.684303,green pepper,cat,Yes,night owl,Yes
+LEC002,20,Engineering: Industrial,53726,43.038902,-87.906471,pepperoni,dog,No,night owl,Yes
+LEC006,18,Business: Actuarial,53706,45.464203,9.189982,pepperoni,cat,Yes,night owl,Yes
+LEC006,18,Computer Science,53715,30.58198,114.268066,sausage,cat,Yes,early bird,Maybe
+LEC004,19,Business: Finance,53706,41.878113,-87.629799,pepperoni,dog,No,early bird,No
+LEC005,18,Business: Finance,53706,40.416775,-3.70379,pepperoni,dog,Yes,early bird,No
+LEC001,20,Science: Other|Environmental Science,53715,41.878113,-87.629799,green pepper,cat,No,early bird,No
+LEC002,22,Computer Science,53715,42,-71,mushroom,cat,No,night owl,Maybe
+LEC001,24,Economics,53703,40,-90,pineapple,dog,No,night owl,Yes
+LEC006,19,Business: Information Systems,53715,40.712776,-74.005974,basil/spinach,dog,No,night owl,Yes
+LEC002,19,Data Science,53703,33.4942,89.4959,sausage,dog,No,night owl,Maybe
+LEC003,20,Engineering: Mechanical,53715,43.02833,-87.971467,pepperoni,neither,Yes,night owl,Maybe
+LEC001,,Data Science,53706,40.416775,-3.70379,none (just cheese),dog,Yes,no preference,Yes
+LEC003,19,Engineering: Mechanical,53715,43.07,-89.4,pepperoni,dog,No,no preference,Maybe
+LEC006,18,Data Science,53706,46.683334,7.85,mushroom,dog,Yes,no preference,No
+LEC003,19,Engineering: Biomedical,53703,31.046051,34.851612,Other,dog,No,night owl,Maybe
+LEC003,18,Data Science,53705,31.23,121.47,mushroom,dog,Yes,night owl,Maybe
+LEC005,19,Engineering: Mechanical,53703,42.00741,-87.69384,mushroom,dog,No,night owl,Yes
+LEC001,37,Data Science,53718,43.073051,-89.40123,green pepper,dog,No,no preference,Maybe
+LEC003,20,History,53703,31.62,74.8765,Other,cat,Yes,early bird,No
+LEC002,20,Economics,53703,38.627003,-90.199402,mushroom,dog,Yes,night owl,Yes
+LEC005,20,Engineering: Mechanical,53703,40,-74,none (just cheese),dog,Yes,early bird,No
+LEC005,18,Data Science,53706,23.7275,37.9838,pepperoni,dog,Yes,early bird,Yes
+LEC004,20,Mathematics/AMEP,53703,34.746613,113.625328,sausage,neither,Yes,early bird,Maybe
+LEC001,21,Data Science,53703,30.572351,121.776761,pepperoni,cat,No,night owl,Maybe
+LEC005,,Data Science,53715,35.72,-78.89,pepperoni,dog,No,night owl,Yes
+LEC005,20,Information science,53590,44.92556,-89.51539,pepperoni,dog,No,night owl,Yes
+LEC002,22,Mathematics/AMEP,53704,40.76078,-111.891045,pineapple,dog,Yes,night owl,No
+LEC001,22,consumer behavior and marketplace studies,53715,43.653225,-79.383186,mushroom,cat,Yes,night owl,No
+LEC004,22,Computer Science,53703,10.315699,123.885437,sausage,dog,Yes,early bird,No
+LEC002,20,Conservation Biology,53703,40.16573,-105.101189,pineapple,dog,No,night owl,Yes
+LEC005,20,Computer Science,53726,39.4817,106.0384,Other,neither,Yes,early bird,Yes
+LEC005,19,Mathematics/AMEP,53715,48.85,2.35,sausage,cat,No,night owl,Maybe
+LEC005,19,Data Science,53706,30.572815,104.066803,mushroom,neither,No,early bird,Yes
+LEC004,24,Business: Information Systems,53703,37.566536,126.977966,tater tots,dog,No,early bird,No
+LEC004,19,Economics,53703,52.877491,-118.08239,pepperoni,dog,No,night owl,Yes
+LEC004,21,Computer Science,53703,28.538336,-81.379234,pepperoni,dog,No,night owl,Yes
+LEC006,18,Data Science,53706,41.4,-81.9,sausage,dog,Yes,night owl,Maybe
+LEC002,21,Science: Biology/Life,53703,43.038902,-87.906471,none (just cheese),neither,No,no preference,Yes
+LEC004,21,Data Science,53703,3.86,-54.2,macaroni/pasta,dog,No,early bird,No
+LEC004,19,Engineering: Mechanical,53715,39.952583,-75.165222,macaroni/pasta,dog,Yes,no preference,Yes
+LEC004,20,Science: Other,53715,21.3099,157.8581,pineapple,dog,No,early bird,Yes
+LEC005,21,Data Science,48823,11.451419,19.81,mushroom,neither,No,night owl,Maybe
+LEC001,20,Computer Science,53715,41,-87,Other,dog,No,night owl,Yes
+LEC005,21,Data Science,53705,42.3601,71.0589,pepperoni,dog,Yes,no preference,Yes
+LEC005,19,Computer Science,53706,48.856613,2.352222,pepperoni,dog,Yes,night owl,Maybe
+LEC001,17,Statistics,53715,43.0722,89.4008,pineapple,dog,No,early bird,Maybe
+LEC001,20,Economics,53715,27.99942,120.66682,pepperoni,dog,Yes,early bird,No
+LEC001,19,Mathematics/AMEP,53711,45.85038,-84.616989,pineapple,cat,No,night owl,Yes
+LEC004,20,Computer Science,53711,40.842358,111.749992,pineapple,cat,No,night owl,Maybe
+LEC003,18,Engineering: Mechanical,53706,39.738449,-104.984848,pepperoni,dog,No,early bird,Yes
+LEC003,21,Statistics,53705,41.878113,-87.629799,macaroni/pasta,dog,No,night owl,Yes
+LEC006,19,Engineering: Industrial,60540,41.878113,-87.629799,none (just cheese),dog,No,night owl,No
+LEC004,19,Engineering: Mechanical,53703,40.6263,14.3758,mushroom,dog,No,early bird,No
+LEC004,22,Engineering: Other|Chemical Engineering,53703,48.13913,11.58022,macaroni/pasta,dog,Yes,night owl,Yes
+LEC004,21,Economics (Mathematical Emphasis),53703,52.520008,13.404954,pepperoni,dog,No,night owl,No
+LEC004,25,Science: Other|Biophysics PhD,53705,30.21161,-97.80999,pineapple,dog,No,night owl,Yes
+LEC003,19,Computer Science,53716,25.49443,-103.59581,pepperoni,cat,No,no preference,Yes
+LEC003,19,Data Science,53706,64.963051,-19.020836,pineapple,dog,No,no preference,No
+LEC006,19,Computer Science,53706,41.878113,-87.629799,pepperoni,cat,No,night owl,Maybe
+LEC001,23,Economics,53703,43.07348,-89.38089,pepperoni,dog,No,night owl,Yes
+LEC001,29,Business: Other|Technology Strategy/ Product Management,53705,37.386051,-122.083855,Other,cat,No,no preference,Maybe
+LEC002,,Engineering: Mechanical,53706,14.34836,100.576271,pepperoni,neither,No,no preference,Maybe
+LEC004,20,Undecided,53715,37.566536,126.977966,none (just cheese),neither,No,night owl,Yes
+LEC006,19,Engineering: Mechanical,53703,27.993828,120.699364,sausage,neither,No,no preference,Yes
+LEC002,,Computer Science,53705,25.032969,121.565414,pineapple,dog,No,night owl,Yes
+LEC005,20,Mathematics/AMEP,53703,32.060253,118.796875,pineapple,cat,Yes,night owl,Maybe
+LEC003,,Business: Other,53706,50.07553,14.4378,pepperoni,dog,Yes,night owl,Maybe
+LEC006,21,Data Science,57303,32.715736,-117.161087,macaroni/pasta,cat,Yes,no preference,Yes
+LEC006,18,Engineering: Mechanical,53706,45.5579,94.1632,sausage,dog,No,night owl,Yes
+LEC001,18,Engineering: Biomedical,53715,43.073051,-89.40123,sausage,dog,No,early bird,Yes
+LEC005,19,Engineering: Mechanical,53706,38.571739,-109.550797,pepperoni,cat,No,night owl,Yes
+LEC003,18,Engineering: Mechanical,53706,41.902782,12.496365,pepperoni,dog,Yes,night owl,No
+LEC002,21,Data Science,53711,120,30,sausage,dog,Yes,night owl,Maybe
+LEC004,18,Engineering: Biomedical,53706,40.014984,-105.270546,green pepper,dog,No,night owl,Yes
+LEC004,20,Engineering: Mechanical,53715,53.2779,6.1058,sausage,dog,Yes,no preference,Yes
+LEC003,17,Science: Physics,53706,50.088153,14.399437,Other,cat,No,night owl,Yes
+LEC002,19,Engineering: Industrial,53705,35.084385,-106.650421,pineapple,cat,No,night owl,Yes
+LEC003,20,Engineering: Mechanical,53703,44.501343,-88.06221,pepperoni,dog,No,night owl,Yes
+LEC003,18,Engineering: Mechanical,53703,45.659302,-92.466164,macaroni/pasta,dog,No,no preference,Maybe
+LEC003,19,Data Science,53703,16.896721,42.5536,none (just cheese),neither,No,early bird,Maybe
+LEC001,18,Data Science,53703,23.885942,45.079163,mushroom,neither,No,early bird,Maybe
+LEC006,19,Engineering: Mechanical,53703,55.953251,-3.188267,mushroom,cat,Yes,night owl,Yes
+LEC001,30,Business: Other,53705,43.07175,-89.46498,pineapple,cat,No,early bird,No
+LEC006,18,Political Science,53706,39.640263,-106.374191,green pepper,dog,No,early bird,No
+LEC005,23,Business: Information Systems,53705,27.99,120.69,green pepper,dog,No,night owl,No
+LEC003,18,Graphic Design,53706,40.713051,-74.007233,Other,dog,Yes,early bird,Yes
+LEC002,21,Economics,53715,37.369171,-122.112473,mushroom,dog,No,night owl,No
+LEC005,18,Computer Science,53706,21.3099,157.8581,pepperoni,cat,No,night owl,Yes
+LEC002,19,Business: Other|Marketing,53706,59.913868,10.752245,macaroni/pasta,dog,No,night owl,Maybe
+LEC003,20,Cartography and GIS,53726,43.0722,89.4008,sausage,cat,No,early bird,Maybe
+LEC005,21,Economics,53705,25.032969,120.960518,sausage,dog,Yes,night owl,Maybe
+LEC005,19,Engineering: Industrial,53703,42.03992,87.67732,sausage,dog,Yes,night owl,Yes
+LEC003,,Computer Science,53706,35.443081,139.362488,sausage,dog,Yes,night owl,Yes
+LEC002,22,Sociology,53703,53.483959,-2.244644,pepperoni,dog,No,night owl,Yes
+LEC002,18,Undecided,53706,43.073051,-89.40123,pineapple,dog,Yes,night owl,Yes
+LEC004,19,Engineering: Biomedical,53706,-37.81,144.96,sausage,dog,Yes,night owl,Yes
+LEC005,21,Mathematics/AMEP,53703,22.542883,114.062996,pepperoni,cat,No,no preference,Maybe
+LEC002,20,Statistics,53715,23,113,pineapple,dog,No,night owl,Maybe
+LEC001,20,Business: Other|Consumer Behavior and Marketplace Studies,53703,40.76078,-111.891045,green pepper,dog,Yes,early bird,Maybe
+LEC001,21,Data Science,53705,40.712776,-74.005974,pepperoni,cat,No,night owl,Maybe
+LEC002,19,Engineering: Mechanical,53703,26.345631,-81.779083,pepperoni,dog,Yes,night owl,Yes
+LEC004,19,Engineering: Mechanical,53715,40.62632,14.37574,pepperoni,dog,No,no preference,Maybe
+LEC003,18,Engineering: Other,53706,40.73061,-73.9808,mushroom,dog,No,night owl,No
+LEC006,18,Atmospheric Sciences,53706,39.74,-104.99,sausage,dog,Yes,night owl,Maybe
+LEC002,20,Data Science,53703,43.073051,-89.40123,macaroni/pasta,dog,Yes,early bird,Yes
+LEC006,18,Engineering: Mechanical,53706,32.7157,117.1611,pineapple,dog,Yes,night owl,Yes
+LEC004,18,Computer Science,53706,51.507351,-0.127758,green pepper,dog,No,night owl,Yes
+LEC004,19,Education,53715,32.715736,-117.161087,pepperoni,dog,No,night owl,Yes
+LEC004,26,Languages,53703,50.11,8.68,sausage,dog,No,no preference,Yes
+LEC005,21,Economics (Mathematical Emphasis),53715,55.676098,12.568337,pepperoni,cat,No,night owl,Maybe
+LEC004,53,Mathematics/AMEP,53555,47.6,-122.3,mushroom,dog,No,night owl,Yes
+LEC004,17,Computer Science,53706,43.073051,-89.40123,Other,dog,No,night owl,Yes
+LEC006,18,Engineering Mechanics (Aerospace Engineering),53706,43.038902,-87.906471,pepperoni,cat,No,night owl,No
+LEC002,20,Engineering: Mechanical,53715,23.7157,117.1611,none (just cheese),cat,Yes,night owl,Maybe
+LEC002,22,Science: Other|Psychology,53703,37.82034,-122.47872,mushroom,dog,No,early bird,No
+LEC002,22,Computer Science,53705,34.052235,-118.243683,basil/spinach,dog,No,night owl,Yes
+LEC004,26,Science: Biology/Life,53715,33.962425,-83.378622,pineapple,neither,Yes,no preference,Yes
+LEC002,18,Economics,53715,41.878113,-87.629799,basil/spinach,cat,No,night owl,Maybe
+LEC004,24,Engineering: Other|Civil and Environmental Engineering,53703,47.5,19.04,pepperoni,dog,Yes,early bird,Maybe
+LEC004,19,Engineering: Biomedical,53711,40.712776,74.005974,pineapple,dog,No,early bird,No
+LEC001,19,Engineering: Mechanical,53715,43,-90,sausage,dog,No,no preference,Maybe
+LEC006,18,Data Science,94707,37.566536,126.977966,pineapple,dog,Yes,night owl,Yes
+LEC006,20,Undecided,53719,62.2001,58.9638,Other,cat,Yes,night owl,Maybe
+LEC002,18,Engineering: Mechanical,53706,44.977753,-93.265015,none (just cheese),cat,Yes,night owl,Yes
+LEC001,20,Business: Information Systems,53711,34.385204,132.455292,pepperoni,dog,No,early bird,Yes
+LEC005,19,Engineering: Biomedical,53703,41.8781,87.6298,macaroni/pasta,dog,No,night owl,No
+LEC002,19,Engineering: Biomedical,53703,37.98381,23.727539,macaroni/pasta,dog,No,night owl,Maybe
+LEC005,18,Data Science,53706,40,74,pepperoni,dog,No,no preference,Yes
+LEC002,19,Engineering: Mechanical,53711,41.95881,-85.32536,Other,dog,No,no preference,No
+LEC005,18,Data Science,53706,32.715736,-117.161087,sausage,dog,No,night owl,Maybe
+LEC002,18,Undecided,53706,43.060791,-88.119217,Other,neither,No,early bird,Yes
+LEC004,21,Science: Other,53715,27.963989,-82.799957,pineapple,dog,No,night owl,Yes
+LEC006,18,Data Science,53706,1.352083,103.819839,sausage,dog,No,night owl,Yes
+LEC005,19,Data Science,53703,-33.92487,18.424055,none (just cheese),dog,No,night owl,Yes
+LEC001,22,International Studies,53703,48.13913,11.58022,none (just cheese),cat,No,night owl,Yes
+LEC001,19,Engineering: Other,53715,38.331581,-75.086159,macaroni/pasta,dog,No,no preference,Yes
+LEC002,19,Business: Information Systems,53715,44.5,-88,pepperoni,dog,No,night owl,Yes
+LEC002,19,Data Science,53705,21.59143,-158.01743,Other,dog,Yes,night owl,Yes
+LEC002,,Business: Finance,53593,45.813042,9.080931,Other,dog,No,early bird,Yes
+LEC003,21,Business: Information Systems,53703,43.612255,-110.705429,sausage,dog,Yes,no preference,No
+LEC001,21,Data Science,53703,41.00824,28.978359,pepperoni,cat,Yes,early bird,No
+LEC002,18,Engineering: Biomedical,53706,17.385044,78.486671,green pepper,dog,No,night owl,Yes
+LEC006,21,Political Science,53703,45.512,-122.658,sausage,dog,No,night owl,Yes
+LEC003,18,Engineering: Mechanical,53706,41.902782,12.496365,pepperoni,dog,No,early bird,Maybe
+LEC005,19,Engineering: Mechanical,53703,-36.848461,174.763336,none (just cheese),dog,Yes,no preference,No
+LEC002,,Data Science,53713,30.316496,78.032188,mushroom,cat,Yes,night owl,Yes
+LEC002,,Business: Information Systems,53703,35.689487,139.691711,sausage,dog,Yes,night owl,Maybe
+LEC005,18,Data Science,53706,52.520008,13.404954,pineapple,dog,Yes,early bird,No
+LEC005,19,Computer Science,53706,41.3784,2.1686,sausage,cat,No,no preference,Yes
+LEC003,20,Engineering: Mechanical,53715,41.878113,-87.629799,Other,cat,No,night owl,Yes
+LEC004,20,Computer Science,53703,43.073051,-89.40123,none (just cheese),cat,Yes,night owl,Yes
+LEC006,23,Data Science,53703,17.05423,-96.713226,basil/spinach,dog,No,night owl,Maybe
+LEC001,19,Engineering: Mechanical,53706,43.77195,-88.43383,pepperoni,dog,No,early bird,Maybe
+LEC001,20,Economics,53726,42.92,-87.96,pepperoni,dog,Yes,early bird,No
+LEC001,19,Engineering: Mechanical,53715,29.424122,-98.493629,mushroom,dog,Yes,early bird,Maybe
+LEC004,18,Computer Science,53706,30.267153,-97.743057,pepperoni,dog,No,night owl,Yes
+LEC005,,Computer Science,53715,44.9778,93.265,sausage,cat,Yes,night owl,Yes
+LEC003,19,Science: Other,53715,41.9028,12.4964,pepperoni,dog,No,night owl,Yes
+LEC004,19,Data Science,53715,61.2176,149.8997,pineapple,cat,Yes,night owl,Maybe
+LEC001,20,Agricultural and Applied Economics,53703,-22.932924,-47.073845,pineapple,cat,Yes,early bird,Maybe
+LEC003,18,Computer Science,53706,52.370216,4.895168,basil/spinach,cat,No,night owl,Maybe
+LEC003,19,Engineering: Industrial,53703,5.838715,3.603516,pepperoni,dog,Yes,early bird,No
+LEC005,19,Engineering: Mechanical,53715,48.502281,-113.988533,sausage,dog,No,night owl,Yes
+LEC004,41,Languages,53705,29.654839,91.140549,pepperoni,cat,No,night owl,Yes
+LEC002,21,Business: Other|MHR,53703,44,125,Other,neither,No,night owl,Maybe
+LEC005,24,Business: Other,53703,43.073051,-89.40123,pineapple,dog,No,night owl,Yes
+LEC002,18,Undecided,53706,46.786671,-92.100487,none (just cheese),cat,No,no preference,Yes
+LEC004,18,Engineering: Biomedical,53705,35.689487,139.691711,basil/spinach,dog,No,night owl,Yes
+LEC001,25,Medicine,53703,48.38203,-123.537827,basil/spinach,dog,Yes,early bird,No
+LEC004,19,Science: Biology/Life,53705,46.009991,-91.482094,pineapple,dog,No,early bird,No
+LEC005,21,Science: Other|Personal Finance,53703,28.228209,112.938812,pepperoni,cat,Yes,night owl,Yes
+LEC004,18,Data Science,53706,35.689487,139.691711,pepperoni,dog,No,night owl,Maybe
+LEC006,21,Mathematics/AMEP,53703,41.878113,-87.629799,pineapple,cat,Yes,night owl,Maybe
+LEC005,18,Environmental science,53706,31.224361,121.46917,mushroom,dog,No,night owl,Yes
+LEC005,18,Engineering: Industrial,53706,40.712776,-74.005974,pepperoni,dog,Yes,night owl,Yes
+LEC001,20,Business: Other|Real Estate,53703,51.5,0.128,mushroom,dog,Yes,no preference,Maybe
+LEC001,19,Computer Science,53706,40,-74,pepperoni,cat,No,night owl,Yes
+LEC003,19,Engineering: Mechanical,53715,44,-94,pineapple,dog,No,early bird,No
+LEC001,19,Data Science,53715,40.712776,-74.005974,pepperoni,dog,No,early bird,No
+LEC005,18,Engineering: Industrial,53703,41.385063,2.173404,pepperoni,dog,Yes,no preference,Yes
+LEC002,20,Engineering: Industrial,53715,22.3,91.8,sausage,cat,Yes,early bird,Maybe
+LEC001,24,Engineering: Industrial,53705,13.100485,77.594009,none (just cheese),dog,Yes,no preference,Maybe
+LEC004,19,Statistics,53706,36.778259,-119.417931,pineapple,cat,No,night owl,Yes
+LEC005,21,Economics,53703,40.016869,-105.279617,pepperoni,cat,Yes,night owl,Yes
+LEC003,19,Economics (Mathematical Emphasis),53705,31.230391,121.473701,sausage,neither,Yes,no preference,Maybe
+LEC003,19,Business: Finance,53706,22.270979,113.576675,pepperoni,dog,Yes,night owl,Yes
+LEC003,21,Computer Science,53705,43.073051,-89.40123,green pepper,cat,No,no preference,Maybe
+LEC001,28,Science: Biology/Life,53703,7.190708,125.455338,sausage,dog,No,night owl,Yes
+LEC004,18,Statistics,53703,60.472023,8.468946,none (just cheese),dog,No,early bird,No
+LEC002,19,Computer Science,53715,41.73993,-88.09423,mushroom,cat,Yes,no preference,Yes
+LEC002,21,Economics,53703,26.074301,119.296539,mushroom,cat,No,no preference,Maybe
+LEC002,20,Engineering: Industrial,53715,2.188477,41.379179,sausage,dog,No,night owl,Yes
+LEC003,21,Science: Other|Environmental Science,53703,20.8,-156.3,basil/spinach,cat,No,early bird,Maybe
+LEC006,18,Engineering: Mechanical,53706,25.204849,55.270782,pepperoni,dog,No,night owl,Yes
+LEC002,18,Data Science,53706,42.360081,-71.058884,sausage,dog,Yes,night owl,Yes
+LEC004,23,Engineering: Mechanical,53703,38.82097,-104.78163,sausage,dog,No,night owl,No
+LEC001,19,Engineering: Industrial,53715,47.606209,-122.332069,pepperoni,cat,No,night owl,No
+LEC006,19,Sociology,53703,43.05977,-87.88491,basil/spinach,dog,No,night owl,Maybe
+LEC005,19,Engineering: Mechanical,53711,38.8951,-77.0364,pepperoni,dog,Yes,night owl,No
+LEC005,19,Engineering: Mechanical,53703,41.881832,87.6298,pepperoni,dog,No,no preference,Yes
+LEC002,20,Engineering: Mechanical,53703,46.453825,7.436478,pineapple,dog,Yes,night owl,Yes
+LEC002,20,Economics,53703,30.49996,117.050003,Other,dog,No,early bird,Maybe
+LEC004,21,Science: Other|Psychology,53715,23.12911,113.264381,none (just cheese),cat,No,night owl,Maybe
+LEC002,18,Science: Biology/Life,53706,40.7831,73.9712,basil/spinach,dog,Yes,night owl,Yes
+LEC002,,Business: Information Systems,53706,18.52043,73.856743,green pepper,dog,No,night owl,Yes
+LEC002,,Computer Science,53706,29.424122,-98.493629,none (just cheese),dog,No,no preference,Yes
+LEC002,20,Engineering: Mechanical,53703,41.05995,-80.32312,basil/spinach,dog,Yes,night owl,Maybe
+LEC006,19,Statistics,53715,3.139003,101.686852,mushroom,cat,No,no preference,Maybe
+LEC005,18,Data Science,53706,52.370216,4.895168,basil/spinach,dog,No,night owl,Yes
+LEC006,19,Engineering: Industrial,53706,41.878113,-87.629799,pepperoni,dog,No,no preference,Maybe
+LEC006,18,Business: Information Systems,53706,25.032969,121.565414,mushroom,dog,Yes,night owl,Yes
+LEC001,17,Computer Science,53726,21.027763,105.83416,pepperoni,dog,No,early bird,Yes
+LEC001,20,Business: Information Systems,53711,45.046799,-87.298149,sausage,cat,No,night owl,Yes
+LEC005,25,Engineering: Other,53705,32.7157,-117.1611,mushroom,dog,No,no preference,Yes
+LEC004,18,Engineering: Industrial,53706,19.896767,-155.582779,pepperoni,dog,Yes,night owl,Maybe
+LEC005,18,Computer Science,53706,1.28217,103.865196,sausage,dog,No,night owl,Yes
+LEC003,18,Engineering: Mechanical,53706,44.977753,-93.265015,pepperoni,dog,No,night owl,Yes
+LEC004,20,Engineering: Mechanical,53715,23,90,green pepper,cat,No,no preference,Yes
+LEC005,20,Data Science,53703,45.259546,-84.938476,mushroom,dog,Yes,night owl,Yes
+LEC002,21,Science: Other,53703,41.878113,-87.629799,pineapple,dog,Yes,early bird,No
+LEC004,19,Information science,53703,40.712776,-74.005974,pineapple,cat,Yes,early bird,Maybe
+LEC001,19,Engineering: Mechanical,53715,64.126518,-21.817438,pepperoni,dog,No,night owl,Yes
+LEC003,,Business: Other,53706,42.360081,-71.058884,sausage,cat,Yes,night owl,No
+LEC002,31,Geoscience,53703,-41.126621,-73.059303,pepperoni,cat,No,night owl,Yes
+LEC003,18,Engineering: Biomedical,53706,45.17099,-87.16494,Other,dog,No,night owl,Maybe
+LEC002,18,Engineering: Mechanical,53706,37.774929,-122.419418,Other,dog,Yes,no preference,Yes
+LEC004,,Computer Science,53715,39.70698,-86.0862,mushroom,cat,No,night owl,Yes
+LEC005,20,Science: Biology/Life,53703,44.276402,-88.26989,macaroni/pasta,cat,No,no preference,Maybe
+LEC002,19,Science: Biology/Life,53703,51.492519,-0.25852,sausage,dog,Yes,no preference,Yes
+LEC002,19,Data Science,53703,37.6,14.0154,none (just cheese),dog,No,night owl,Yes
+LEC002,20,Engineering: Industrial,53715,46.685631,7.8562,Other,cat,No,night owl,Maybe
+LEC002,22,Economics,53706,41.385063,2.173404,pineapple,cat,No,night owl,Maybe
+LEC004,21,Engineering: Industrial,53703,41.878113,-87.629799,pepperoni,neither,Yes,early bird,No
+LEC004,19,Engineering: Mechanical,53703,51.507351,-0.127758,none (just cheese),neither,No,no preference,Maybe
+LEC006,18,Engineering: Mechanical,53706,41.077747,1.131593,sausage,dog,No,no preference,Maybe
+LEC006,18,Engineering: Mechanical,53706,43.526,5.445,basil/spinach,dog,Yes,no preference,Yes
+LEC003,22,Economics,53715,43.073051,-89.40123,pepperoni,dog,Yes,early bird,Yes
+LEC005,18,Engineering: Industrial,53706,43.085369,-88.912086,sausage,dog,No,night owl,Maybe
+LEC002,19,Statistics,53703,43.769562,11.255814,basil/spinach,dog,No,no preference,Yes
+LEC001,20,Computer Science,53715,20.880947,-156.681862,sausage,dog,No,night owl,Yes
+LEC003,19,Mathematics/AMEP,53703,64.963051,-19.020836,basil/spinach,dog,No,no preference,Yes
+LEC005,18,Undecided,53706,43.073929,-89.385239,sausage,dog,Yes,early bird,Yes
+LEC003,18,Business: Information Systems,53706,25.204849,55.270782,none (just cheese),dog,No,night owl,No
+LEC003,21,Economics,53703,39.904,116.407,pepperoni,cat,No,night owl,No
+LEC004,18,Engineering: Mechanical,53706,39.739235,-104.99025,pepperoni,cat,Yes,no preference,Maybe
+LEC004,21,Science: Biology/Life,53726,43,89,pepperoni,dog,Yes,night owl,Yes
+LEC003,19,Data Science,53715,43.073051,-89.40123,none (just cheese),dog,No,early bird,Maybe
+LEC002,19,Business: Other|accounting,53703,43.38,-87.9,sausage,neither,No,night owl,Yes
+LEC002,18,Science: Biology/Life,53706,40.122,25.4988,sausage,dog,No,early bird,No
+LEC005,20,Engineering: Mechanical,53715,39.904202,116.407394,sausage,dog,No,night owl,Yes
+LEC001,19,Engineering: Mechanical,53703,-37.813629,144.963058,sausage,dog,Yes,night owl,Yes
+LEC005,21,Economics,53715,46.81,-71.21,pepperoni,cat,No,night owl,Yes
+LEC004,19,Engineering: Mechanical,53715,52.370216,4.895168,mushroom,dog,Yes,night owl,Yes
+LEC001,21,Mathematics/AMEP,53703,34.29006,108.932941,basil/spinach,dog,No,early bird,Yes
+LEC005,21,Engineering: Mechanical,53726,43.804801,-91.226075,pepperoni,dog,Yes,night owl,Yes
+LEC002,18,Data Science,53703,32.715736,-117.161087,none (just cheese),cat,Yes,night owl,Maybe
+LEC004,18,Engineering: Mechanical,53706,20.92674,-156.69386,pepperoni,dog,No,night owl,Maybe
+LEC003,18,Data Science,53706,47.606209,-122.332069,pepperoni,dog,No,early bird,Yes
+LEC005,21,Computer Science,53703,43.07515,-89.3958,sausage,neither,Yes,night owl,Yes
+LEC001,19,Engineering: Mechanical,53562,43.096851,-89.511528,sausage,dog,No,night owl,No
+LEC003,19,Engineering: Mechanical,53715,20.924325,-156.690102,sausage,cat,Yes,night owl,No
+LEC005,20,Data Science,53703,25.0838,77.3212,pepperoni,dog,No,night owl,Maybe
+LEC003,21,Business: Actuarial,53715,43.073051,-89.40123,pineapple,cat,Yes,night owl,Yes
+LEC001,,Computer Science,53715,31.469279,119.765621,pepperoni,dog,No,night owl,Maybe
+LEC005,19,Engineering: Mechanical,53715,43.769562,11.255814,basil/spinach,neither,No,early bird,No
+LEC001,21,Science: Chemistry,53715,38.892059,-77.019913,pepperoni,neither,No,night owl,Yes
+LEC002,19,Business: Finance,53715,42.360081,-71.058884,mushroom,dog,Yes,night owl,Yes
+LEC001,18,Data Science,53703,24.713552,46.675297,none (just cheese),neither,No,night owl,Yes
+LEC003,19,Business: Actuarial,53715,60.391262,5.322054,pepperoni,dog,No,early bird,No
+LEC003,19,Data Science,53715,23.697809,120.960518,pepperoni,cat,No,night owl,Yes
+LEC003,18,Data Science,53706,40.712776,74.005974,pineapple,dog,Yes,early bird,No
+LEC004,19,Engineering: Mechanical,53703,45.126887,-94.528067,sausage,dog,No,night owl,Maybe
+LEC002,21,Science: Biology/Life,53715,48.208176,16.373819,Other,dog,Yes,night owl,No
+LEC006,18,Engineering: Mechanical,53706,44.0628,-121.30451,pepperoni,dog,No,night owl,Yes
+LEC003,21,Statistics,53703,31.230391,121.473701,pineapple,cat,Yes,night owl,Yes
+LEC005,21,Economics,53703,47.62772,-122.51368,macaroni/pasta,cat,No,no preference,No
+LEC003,19,Engineering: Mechanical,53715,65.68204,-18.090534,sausage,cat,No,no preference,No
+LEC004,21,Economics,53715,48.856613,2.352222,basil/spinach,dog,Yes,night owl,No
+LEC001,18,Engineering: Biomedical,53706,33.501324,-111.925278,pineapple,dog,Yes,early bird,No
+LEC005,18,Data Science,53706,14.77046,-91.183189,mushroom,cat,No,night owl,Maybe
+LEC002,18,Engineering: Industrial,53706,10.480594,-66.903603,mushroom,neither,No,night owl,Maybe
+LEC004,21,Engineering: Mechanical,53715,48.856613,2.352222,mushroom,cat,Yes,night owl,Yes
+LEC001,19,Science: Biology/Life,53706,20.788602,-156.003662,green pepper,dog,Yes,no preference,No
+LEC006,18,Data Science,53706,36.59239,-121.86875,pepperoni,cat,No,night owl,Maybe
+LEC002,,Engineering: Industrial,53705,47.6,-122.33,sausage,dog,No,early bird,No
+LEC001,18,Engineering: Mechanical,53703,23.885942,45.079163,Other,cat,No,night owl,Maybe
+LEC002,18,Engineering: Industrial,53532,47.606209,-122.332069,mushroom,dog,No,night owl,Maybe
+LEC002,17,Engineering: Biomedical,53706,39.5755,-106.100403,pepperoni,dog,Yes,night owl,Maybe
+LEC002,20,Data Science,53711,39.904202,116.407394,pepperoni,dog,No,night owl,Yes
+LEC001,19,Engineering: Industrial,53705,41.878113,-87.629799,tater tots,cat,No,night owl,No
+LEC004,19,Political Science,53703,55.679626,12.581921,pepperoni,dog,Yes,no preference,Maybe
+LEC005,18,Computer Science,53715,28.538336,-81.379234,pepperoni,dog,No,night owl,Maybe
+LEC004,29,Engineering: Mechanical,53704,50.064651,19.944981,sausage,dog,No,early bird,Maybe
+LEC005,18,Engineering: Other,53706,41.385063,2.173404,mushroom,cat,No,night owl,Yes
+LEC001,19,Engineering: Mechanical,53703,44.977753,-93.265015,Other,cat,Yes,early bird,No
+LEC001,32,Design Studies,53705,48.856613,2.352222,mushroom,dog,No,early bird,Yes
+LEC002,20,Engineering: Mechanical,53703,41.28347,-70.099449,pepperoni,dog,Yes,night owl,Yes
+LEC003,19,Engineering: Industrial,53715,41.73849,-71.30418,pepperoni,dog,No,night owl,Yes
+LEC001,18,Data Science,53706,43.073051,-89.40123,sausage,dog,No,early bird,Yes
+LEC001,19,Computer Science,53715,31.230391,121.473701,pineapple,cat,No,night owl,Yes
+LEC001,19,Data Science,53703,37.9838,23.7275,sausage,dog,Yes,no preference,Yes
+LEC005,20,Engineering: Biomedical,53703,47.497913,19.040236,Other,cat,Yes,night owl,No
+LEC004,18,Economics,53711,13.756331,100.501762,Other,dog,No,night owl,Maybe
+LEC002,18,Data Science,53706,3.864255,73.388672,pepperoni,dog,Yes,night owl,Maybe
+LEC006,18,Engineering: Mechanical,53706,32.715736,-117.161087,macaroni/pasta,dog,Yes,night owl,Yes
+LEC001,19,Business: Actuarial,53715,18.32431,64.941612,pepperoni,dog,No,no preference,Yes
+LEC001,22,Psychology,53711,43.055333,-89.425946,pineapple,dog,Yes,early bird,No
+LEC003,18,Computer Science,53706,40.744678,-73.758072,mushroom,cat,No,night owl,Maybe
+LEC006,18,Data Science,53715,38.9784,76.4922,mushroom,cat,No,early bird,Yes
+LEC004,20,Science: Other,53726,55.675758,12.56902,none (just cheese),cat,Yes,night owl,Yes
+LEC001,20,Science: Biology/Life,53715,40.713051,-74.007233,pineapple,cat,No,night owl,Maybe
+LEC004,18,Engineering: Industrial,53706,51.507351,-0.127758,pepperoni,dog,Yes,no preference,No
+LEC004,25,Computer Science,53703,38.736946,-9.142685,pepperoni,dog,No,night owl,Yes
+LEC002,18,Computer Science,53706,22.543097,114.057861,pepperoni,cat,No,no preference,Yes
+LEC004,25,Science: Chemistry,53703,37.566536,126.977966,Other,cat,Yes,night owl,Maybe
+LEC002,19,Engineering: Mechanical,53715,26.338,-81.775,pepperoni,dog,Yes,no preference,Maybe
+LEC005,19,Engineering: Mechanical,53715,33.448376,-112.074036,pepperoni,neither,Yes,early bird,No
+LEC005,19,Engineering: Mechanical,53703,43.073051,-89.40123,pepperoni,cat,No,no preference,Yes
+LEC001,19,Engineering: Mechanical,53705,26.647661,106.63015,mushroom,cat,No,night owl,No
+LEC003,18,Undecided,53706,43.2967,87.9876,pepperoni,dog,No,night owl,No
+LEC005,19,Science: Physics,53703,78.225,15.626,sausage,cat,No,early bird,No
+LEC002,,Science: Other|Environmetal Science,53703,52.973558,-9.425102,none (just cheese),dog,Yes,night owl,Maybe
+LEC006,19,Economics (Mathematical Emphasis),53715,37.774929,-122.419418,sausage,cat,Yes,night owl,Yes
+LEC002,20,Business: Finance,53703,40.7128,74.006,pineapple,dog,No,night owl,Yes
+LEC001,21,Science: Biology/Life,53703,44.794,-93.148,pepperoni,dog,No,night owl,No
+LEC002,19,Engineering: Mechanical,53706,36.17,-115.14,pepperoni,cat,No,night owl,Maybe
+LEC001,18,Engineering: Biomedical,53706,21.161907,-86.851524,none (just cheese),dog,No,early bird,Maybe
+LEC001,18,Computer Science,53715,48.856613,2.352222,pineapple,neither,Yes,no preference,No
+LEC004,19,Engineering: Mechanical,53715,48.137,11.576,green pepper,dog,No,early bird,No
+LEC001,20,Engineering: Biomedical,53703,43.07393,-89.38524,sausage,dog,No,night owl,Maybe
+LEC002,18,Science: Other,53706,35.6762,139.6503,Other,dog,No,no preference,Yes
+LEC004,19,Computer Science,53703,41.902782,12.496365,none (just cheese),neither,Yes,night owl,No
+LEC001,20,Science: Other|Atmospheric and Oceanic Sciences (AOS),53711,49.299171,19.94902,pepperoni,dog,No,night owl,Maybe
+LEC002,18,Data Science,53706,41.380898,2.12282,pepperoni,dog,No,night owl,Maybe
+LEC006,18,Data Science,53706,48.257919,4.03073,mushroom,cat,Yes,early bird,No
+LEC005,19,Engineering: Mechanical,53715,35.0844,106.6504,pineapple,dog,Yes,early bird,Yes
+LEC002,23,Economics,53703,121,5,pepperoni,neither,No,no preference,Maybe
+LEC004,18,Business: Actuarial,53706,21.306944,-157.858337,pineapple,dog,Yes,night owl,Maybe
+LEC005,18,Economics,53706,43,-87.9,pepperoni,dog,Yes,early bird,Maybe
+LEC005,23,Business: Other|Business Analytics,53703,31.230391,121.473701,pineapple,cat,Yes,night owl,Maybe
+LEC002,22,Psychology,53703,25.032969,121.565414,mushroom,dog,No,no preference,Yes
+LEC005,18,Computer Science,53706,43.0722,89.4008,sausage,cat,No,night owl,Yes
+LEC006,18,Data Science,53706,52.370216,4.895168,mushroom,dog,Yes,night owl,Maybe
+LEC004,20,Data Science,53703,35.726212,-83.491226,pepperoni,cat,No,early bird,Yes
+LEC001,18,Computer Science,53703,27,153,mushroom,cat,No,early bird,Yes
+LEC005,18,Data Science,53706,56.117017,-3.879547,pineapple,dog,Yes,night owl,Yes
+LEC001,20,Engineering: Biomedical,53715,45.983964,9.262161,sausage,dog,No,night owl,No
+LEC005,21,Psychology,53703,43.038902,-87.906471,macaroni/pasta,dog,Yes,night owl,Yes
+LEC002,18,Engineering: Mechanical,53706,41.38879,2.15084,sausage,dog,Yes,no preference,Maybe
+LEC003,18,Data Science,53706,47.48,-122.28,basil/spinach,dog,No,no preference,Maybe
+LEC004,21,Data Science,53703,34.746613,113.625328,green pepper,neither,Yes,no preference,No
+LEC005,21,Data Science,53703,38.240946,-85.757571,pepperoni,dog,No,no preference,Yes
+LEC005,19,Engineering: Mechanical,53703,43.07291,-89.39439,sausage,dog,No,night owl,Maybe
+LEC005,19,Engineering: Mechanical,53715,56.373482,-3.84306,none (just cheese),dog,No,early bird,Yes
+LEC005,19,Data Science,53703,41.381717,2.177925,pepperoni,dog,Yes,night owl,Yes
+LEC005,19,Engineering: Mechanical,53714,43.089199,87.8876,pepperoni,dog,No,night owl,Yes
+LEC005,19,Engineering: Other,53590,38.4,11.2,pepperoni,dog,Yes,early bird,No
+LEC005,19,Engineering: Mechanical,53715,25.761681,-80.191788,pepperoni,dog,Yes,night owl,No
+LEC005,19,Engineering: Mechanical,53703,44.5133,88.0133,mushroom,dog,Yes,night owl,Maybe
+LEC002,,Computer Science,53706,41.8781,87.6298,pepperoni,dog,No,night owl,Maybe
+LEC005,19,Business: Finance,53703,38.98378,-77.20871,none (just cheese),dog,Yes,night owl,Yes
+LEC005,18,Business: Finance,53703,22.9068,43.1729,pepperoni,dog,No,night owl,Yes
+LEC005,19,Engineering: Mechanical,53715,43.073051,-89.40123,pepperoni,dog,No,early bird,No
+LEC004,23,Economics,53703,43.083321,-89.372475,mushroom,dog,Yes,early bird,No
+LEC002,17,Business: Actuarial,53715,34.746613,113.625328,sausage,neither,Yes,night owl,Maybe
+LEC005,18,Engineering: Biomedical,53715,46.58276,7.08058,pepperoni,dog,No,early bird,No
+LEC001,20,Statistics,53715,39.904202,116.407394,mushroom,dog,Yes,early bird,No
+LEC002,18,Computer Science,53706,35.96691,-75.627823,sausage,dog,No,early bird,Yes
+LEC005,21,Mathematics/AMEP,53703,13.756331,100.501762,pepperoni,dog,No,night owl,Yes
+LEC005,20,Engineering: Biomedical,53715,28.538336,-81.379234,sausage,cat,No,night owl,Maybe
+LEC002,19,Engineering: Mechanical,53703,44.822783,-93.370743,sausage,dog,Yes,early bird,No
+LEC005,19,Engineering: Mechanical,53715,42.15,-87.96,pepperoni,dog,No,night owl,Yes
+LEC005,20,Journalism,53715,41.3874,2.1686,basil/spinach,dog,Yes,early bird,Maybe
+LEC001,19,Engineering: Mechanical,53703,42.864552,-88.333199,pepperoni,dog,No,early bird,Maybe
+LEC005,17,Data Science,53706,40.7128,74.006,macaroni/pasta,dog,No,night owl,Yes
+LEC005,19,Science: Other|Politcal Science,53703,41.878113,-87.629799,pepperoni,dog,Yes,night owl,No
+LEC002,20,Business: Finance,53703,40.7831,73.9712,sausage,dog,Yes,night owl,No
+LEC004,20,Data Science,53703,43,87.9,none (just cheese),dog,No,night owl,Yes
+LEC001,18,Data Science,53706,38.900497,-77.007507,pineapple,dog,No,night owl,Maybe
+LEC005,18,Engineering: Industrial,53706,45.440845,12.315515,sausage,dog,No,night owl,Maybe
+LEC002,19,Data Science,53715,25.73403,-80.24697,pepperoni,dog,Yes,night owl,Yes
+LEC005,18,Political Science,53706,42.360081,-71.058884,macaroni/pasta,dog,Yes,night owl,Yes
+LEC002,20,Economics,53703,41.878113,-87.629799,pepperoni,dog,Yes,no preference,Maybe
+LEC004,18,Engineering: Mechanical,55088,48.135124,11.581981,pepperoni,dog,Yes,no preference,No
+LEC002,23,Business: Information Systems,53703,37.566536,126.977966,sausage,dog,No,night owl,Maybe
+LEC005,17,Data Science,53703,49.2827,123.1207,sausage,dog,Yes,night owl,Yes
+LEC005,,Statistics,53726,40.712776,-74.005974,Other,dog,Yes,no preference,Yes
+LEC001,18,Science: Biology/Life,53706,48.856613,2.352222,pepperoni,cat,Yes,early bird,No
+LEC005,32,Communication Sciences and Disorder,53705,37.566536,126.977966,pineapple,dog,Yes,no preference,Yes
+LEC001,18,Data Science,53706,41.878113,-87.629799,macaroni/pasta,dog,No,night owl,Yes
+LEC002,17,Business: Information Systems,53706,-6.17511,106.865036,sausage,neither,No,no preference,Maybe
+LEC002,25,Science: Other|Geoscience,53711,46.947975,7.447447,mushroom,cat,No,no preference,Yes
+LEC002,20,Economics,53703,46.7867,92.1005,macaroni/pasta,neither,Yes,early bird,No
+LEC002,21,Business: Other|Marketing,53703,20.878332,-156.682495,basil/spinach,dog,No,night owl,Yes
+LEC001,19,Statistics,53703,52.370216,4.895168,sausage,dog,No,night owl,Maybe
+LEC005,20,Engineering: Biomedical,53711,35.689487,139.691711,basil/spinach,dog,No,night owl,Yes
+LEC005,22,Science: Other|Atmospheric and oceanic science,53703,26.1224,80.1373,pepperoni,dog,No,early bird,No
+LEC001,18,Engineering: Mechanical,53726,21.306944,-157.858337,sausage,dog,No,night owl,Yes
+LEC005,21,Business: Finance,53703,43.11339,-89.37726,sausage,dog,No,night owl,Yes
+LEC001,,Business: Other,53703,22.396427,114.109497,Other,dog,No,early bird,Maybe
+LEC004,19,Science: Biology/Life,53706,41.2,96,pepperoni,cat,No,early bird,No
+LEC004,18,Engineering: Industrial,53706,49.74609,7.4609,pepperoni,cat,No,early bird,Yes
+LEC004,20,Science: Other|Environmental Science,53715,43,-89,mushroom,dog,Yes,night owl,Maybe
+LEC001,18,Business: Finance,53706,39.7392,104.9903,pepperoni,dog,No,early bird,No
+LEC002,,Computer Science,53706,41.67566,-86.28645,pineapple,cat,No,no preference,Maybe
+LEC002,18,Business: Other,53706,33.88509,-118.409714,green pepper,dog,Yes,night owl,No
+LEC001,20,Engineering: Biomedical,53711,41.8781,87.6298,pepperoni,dog,No,night owl,Yes
+LEC002,20,Data Science,53715,10.97285,106.477707,mushroom,dog,No,no preference,Maybe
+LEC002,20,Computer Science,53703,36.16156,-75.752441,pepperoni,dog,Yes,no preference,Yes
+LEC002,20,Business: Other|Marketing,53703,35.689487,139.691711,pepperoni,dog,Yes,night owl,Yes
+LEC002,18,Engineering: Other|Engineering Mechanics,53706,35.689487,139.691711,mushroom,cat,No,night owl,Maybe
+LEC002,21,Economics (Mathematical Emphasis),53703,46.25872,-91.745583,sausage,dog,Yes,no preference,Yes
+LEC002,19,Mathematics,53703,39.904202,116.407394,tater tots,cat,No,night owl,Yes
+LEC002,18,Data Science,53703,40.706067,-74.030063,pepperoni,dog,No,night owl,Yes
+LEC002,19,Pre-Business,53703,39.60502,-106.51641,pepperoni,dog,Yes,early bird,No
+LEC002,20,Mathematics/AMEP,53703,35.106766,-106.629181,green pepper,cat,No,night owl,Yes
+LEC003,20,Science: Physics,53715,64.963051,-19.020836,mushroom,dog,No,night owl,Yes
+LEC002,20,Business: Finance,53703,31.298973,120.585289,pineapple,cat,Yes,night owl,No
+LEC002,18,Economics,53706,48.856613,2.352222,basil/spinach,dog,No,night owl,Maybe
+LEC001,21,Data Science,53703,40.712776,-74.005974,sausage,dog,No,night owl,Yes
+LEC002,19,Engineering: Industrial,53715,45.914,-89.255,sausage,dog,Yes,early bird,Yes
+LEC002,19,Computer Science,53703,20,110,pineapple,cat,No,night owl,Maybe
+LEC002,19,Engineering: Mechanical,53726,41.878113,-87.629799,basil/spinach,dog,No,early bird,Yes
+LEC005,19,Computer Science,53715,48.8566,2.3522,sausage,dog,No,night owl,Maybe
+LEC002,19,Industrial Engineering,53703,48.856613,2.352222,basil/spinach,dog,No,early bird,Yes
+LEC002,18,Data Science,53706,43.073051,-89.40123,pepperoni,dog,Yes,night owl,Yes
+LEC002,20,Statistics,53703,31.224361,121.46917,mushroom,dog,No,no preference,Maybe
+LEC002,18,Computer Science,53706,35.689487,139.691711,green pepper,dog,No,night owl,Yes
+LEC002,18,Computer Science,53706,25.03841,121.563698,pineapple,dog,No,night owl,Yes
+LEC002,19,Engineering: Mechanical,53715,43.06827,-89.40263,sausage,dog,No,night owl,No
+LEC002,18,Engineering: Mechanical,53703,43,89.4,pepperoni,cat,No,no preference,Maybe
+LEC002,,Mechanical Engineering,53703,41.8781,87.6298,Other,dog,Yes,night owl,Yes
+LEC002,26,Science: Other,57075,42.76093,-89.9589,Other,dog,Yes,early bird,No
+LEC002,21,Science: Other|Environmental science,53714,47.606209,-122.332069,pepperoni,dog,Yes,early bird,Yes
+LEC002,18,Data Science,53706,35.69,139.69,pineapple,cat,No,night owl,Yes
+LEC002,18,Computer Science,53706,42.807091,-86.01886,none (just cheese),cat,Yes,early bird,Yes
+LEC002,19,Engineering: Mechanical,53703,45.892099,8.997803,green pepper,dog,No,night owl,Yes
+LEC002,20,Computer Science,53715,40.755645,-74.034119,sausage,dog,Yes,night owl,Yes
+LEC001,18,Engineering: Mechanical,53066,43.073051,-89.40123,pepperoni,dog,No,night owl,Yes
+LEC002,18,Data Science,53706,21.306944,-157.858337,pineapple,dog,No,night owl,No
+LEC002,18,Engineering: Industrial,53706,32.0853,34.781769,pepperoni,dog,No,night owl,Maybe
+LEC002,19,Engineering: Mechanical,53703,46.786671,-92.100487,sausage,dog,No,early bird,No
+LEC002,19,Engineering: Mechanical,53715,42.590519,-88.435287,pepperoni,dog,No,early bird,No
+LEC002,23,Data Science,53703,37,127,pineapple,dog,No,night owl,Yes
+LEC002,20,Data Science,53703,43.06875,-89.39434,pepperoni,dog,Yes,no preference,Maybe
+LEC002,20,Engineering: Mechanical,53703,41.499321,-81.694359,pepperoni,dog,Yes,night owl,Maybe
+LEC002,21,Economics,53703,38.969021,-0.18516,sausage,dog,Yes,no preference,No
+LEC002,20,Economics,53703,50.85,4.35,pepperoni,dog,No,no preference,Yes
+LEC002,19,Data Science,53715,36.39619,10.61412,none (just cheese),cat,No,no preference,Yes
+LEC002,20,Engineering: Mechanical,53711,43.073051,-89.40123,green pepper,dog,Yes,night owl,No
+LEC002,30,Life Sciences Communication,53562,52.399448,0.25979,basil/spinach,cat,Yes,night owl,Yes
+LEC002,20,Business: Finance,53703,41.878,-87.629799,pepperoni,dog,No,no preference,Yes
+LEC002,18,Computer Science,53706,31.2304,121.4737,pepperoni,cat,No,night owl,Maybe
+LEC005,22,Economics,53711,48.135124,11.581981,pepperoni,cat,Yes,no preference,Yes
+LEC002,19,Engineering: Mechanical,53711,51.5,0.1276,pepperoni,dog,No,night owl,No
+LEC001,18,Computer Science,53703,31.298973,120.585289,pineapple,neither,No,night owl,No
+LEC001,19,Computer Science,53703,37,-97,macaroni/pasta,cat,No,no preference,Maybe
+LEC002,19,International Studies,53703,8.25115,34.588348,none (just cheese),dog,Yes,early bird,Maybe
+LEC001,19,Engineering: Mechanical,53703,43.038902,-87.906471,pineapple,cat,No,night owl,Yes
+LEC001,19,Science: Other|Atmospheric and Oceanic Sciences,53703,48.856613,2.352222,pepperoni,dog,Yes,night owl,Yes
+LEC004,20,Data Science,53703,41.878113,-87.629799,green pepper,dog,No,early bird,Yes
+LEC004,18,Undecided,53706,39.3823,87.2971,sausage,dog,Yes,early bird,No
+LEC004,21,Data Science,53703,31.230391,121.473701,mushroom,cat,No,night owl,Maybe
+LEC001,18,Data Science,53706,32.776474,-79.931053,none (just cheese),dog,No,early bird,Yes
+LEC006,18,Science: Physics,53706,43.073051,-89.40123,sausage,dog,No,night owl,Yes
+LEC001,19,Economics,53703,35.689487,139.691711,pineapple,dog,Yes,night owl,Yes
+LEC004,18,Data Science,53715,50.8,-1.085,Other,dog,No,night owl,Maybe
+LEC002,21,Languages,53703,37.389091,-5.984459,mushroom,cat,No,early bird,No
+LEC001,19,Rehabilitation Psychology,53706,36.204823,138.25293,pineapple,cat,No,no preference,Maybe
+LEC006,18,Data Science,53705,37.5741,122.3794,pepperoni,dog,Yes,night owl,Yes
+LEC004,18,Undecided,53706,26.452,-81.9481,pepperoni,dog,Yes,night owl,Yes
+LEC002,19,Business: Actuarial,53703,37.774929,-122.419418,pineapple,dog,No,early bird,No
+LEC005,18,Undecided,53706,55.676098,12.568337,pepperoni,dog,Yes,night owl,No
+LEC001,19,Engineering: Mechanical,53703,43.073051,-89.40123,pepperoni,dog,Yes,night owl,Yes
+LEC002,18,Statistics,53706,40.713051,-74.007233,none (just cheese),dog,No,night owl,Maybe
+LEC003,21,Languages,53511,39.952583,-75.165222,pepperoni,dog,No,night owl,Yes
+LEC002,18,Computer Science,53706,12.523579,-70.03355,pineapple,dog,No,night owl,Yes
+LEC004,,Engineering: Biomedical,53715,41.878113,-87.629799,pepperoni,dog,Yes,night owl,No
+LEC001,,Data Science,53701,40.37336,88.231483,pepperoni,dog,Yes,night owl,No
+LEC001,19,Data Science,53703,51.5072,0.1276,pepperoni,dog,Yes,no preference,No
+LEC002,18,Data Science,53706,47.987289,0.22367,none (just cheese),dog,Yes,night owl,Maybe
+LEC002,19,Business: Actuarial,53715,45.17963,-87.150009,sausage,dog,Yes,no preference,No
+LEC005,21,Science: Biology/Life,53703,21.23556,-86.73142,pepperoni,dog,Yes,night owl,Yes
+LEC004,18,Engineering: Industrial,53706,43.073051,-89.40123,sausage,dog,No,night owl,Yes
+LEC001,21,Science: Biology/Life,53715,41.878113,-87.629799,green pepper,cat,No,night owl,Yes
+LEC001,20,Engineering: Biomedical,53703,48.8566,2.3522,mushroom,cat,Yes,night owl,Maybe
+LEC005,19,Engineering: Mechanical,53703,49.28273,-123.120735,basil/spinach,dog,No,night owl,Yes
+LEC001,19,Data Science,53706,37.23082,-107.59529,basil/spinach,dog,No,no preference,Maybe
+LEC001,19,Business: Finance,53703,26.20047,127.728577,mushroom,dog,No,night owl,Maybe
+LEC006,18,Statistics,53706,32.060253,118.796875,pineapple,cat,Yes,early bird,Maybe
+LEC002,20,Business: Information Systems,53706,52.520008,13.404954,none (just cheese),dog,No,early bird,Yes
+LEC006,18,Undecided,53706,43.038902,-87.906471,sausage,dog,No,night owl,Yes
+LEC002,20,Accounting,53703,32.79649,-117.192123,mushroom,dog,No,no preference,Yes
+LEC006,19,Statistics,53715,21.315603,-157.858093,pepperoni,cat,No,night owl,No
+LEC004,20,Science: Biology/Life,53706,13.756331,100.501762,pineapple,neither,No,night owl,Yes
+LEC004,20,Business: Other,53715,42.818878,-89.494115,pepperoni,dog,No,night owl,Yes
+LEC001,19,Engineering: Mechanical,53703,44.9778,93.265,pepperoni,dog,Yes,night owl,Maybe
+LEC004,18,Engineering: Industrial,53706,41.3874,2.1686,none (just cheese),dog,No,night owl,Maybe
+LEC001,37,Engineering: Other|Civil- Intelligent Transportation System,53705,23.810331,90.412521,pineapple,neither,Yes,early bird,Yes
+LEC001,19,Science: Physics,53703,42.696842,-89.026932,sausage,cat,No,night owl,Yes
+LEC006,19,Data Science,53715,53.266479,-9.052602,macaroni/pasta,dog,No,no preference,Yes
+LEC001,19,Data Science,53703,45.19356,-87.118767,pepperoni,dog,Yes,early bird,Maybe
+LEC005,18,Engineering: Industrial,53715,21.306944,-157.858337,none (just cheese),dog,Yes,night owl,Maybe
+LEC004,19,Computer Science,53703,40.678177,-73.94416,Other,cat,No,night owl,Maybe
+LEC005,18,Science: Biology/Life,53706,44.513317,-88.013298,pepperoni,dog,Yes,night owl,No
+LEC001,19,Engineering: Mechanical,53703,40.712776,-74.005974,none (just cheese),dog,Yes,early bird,Maybe
+LEC002,22,Economics,53703,37.6,127,pineapple,neither,Yes,night owl,Maybe
+LEC004,20,Engineering: Industrial,53703,39.359772,-111.584167,pepperoni,dog,Yes,early bird,Maybe
+LEC001,19,Data Science,53706,31.298973,120.585289,mushroom,cat,No,night owl,Yes
+LEC001,20,Computer Science,53715,43.073051,-89.40123,none (just cheese),dog,No,night owl,Maybe
+LEC001,25,Data Science,53703,37.566536,126.977966,pineapple,dog,Yes,night owl,No
+LEC005,19,Data Science,53706,36.169941,-115.139832,pepperoni,dog,Yes,night owl,Yes
+LEC001,19,Engineering: Mechanical,53703,44.834209,87.376266,sausage,dog,Yes,no preference,Yes
+LEC005,20,Engineering: Mechanical,53703,43.17854,-89.163391,sausage,dog,Yes,night owl,Maybe
+LEC004,19,Engineering: Industrial,53703,41.93101,-87.64987,pepperoni,neither,No,early bird,No
+LEC003,19,Engineering: Industrial,53703,11.89,-85,pepperoni,dog,Yes,night owl,Maybe
+LEC003,19,Engineering: Mechanical,53715,33.873417,-115.900993,pepperoni,dog,No,early bird,No
+LEC001,22,Economics,53703,42.360081,-71.058884,pepperoni,dog,No,no preference,Maybe
+LEC001,18,Data Science,53706,34.04018,-118.48849,pepperoni,dog,Yes,night owl,Yes
+LEC002,42069,Data Science,53704,43,-89,none (just cheese),neither,No,no preference,No
+LEC004,20,Business: Finance,53715,38.71049,-75.07657,sausage,dog,No,early bird,No
+LEC004,21,Engineering: Mechanical,53715,43.073051,-89.40123,Other,dog,Yes,early bird,No
+LEC004,18,Engineering: Industrial,53706,44.261799,-88.407249,sausage,dog,Yes,night owl,No
+LEC004,26,Science: Other|Animal and Dairy Science,53705,53.270668,-9.05679,pepperoni,dog,No,early bird,Yes
+LEC005,20,Data Science,53715,43.355099,11.02956,sausage,dog,No,early bird,Maybe
+LEC003,19,Engineering: Mechanical,53715,45.40857,-91.73542,sausage,dog,Yes,no preference,No
+LEC004,22,Engineering: Mechanical,53726,55.864239,-4.251806,pepperoni,dog,Yes,night owl,Yes
+LEC001,18,Engineering: Mechanical,53706,50.808712,-0.1604,pepperoni,dog,Yes,night owl,Maybe
+LEC004,19,Engineering: Mechanical,53703,13.35433,103.77549,none (just cheese),dog,No,no preference,Maybe
+LEC005,24,Mathematics/AMEP,53705,40.7,-74,pineapple,cat,No,early bird,Maybe
+LEC001,19,Interior Architecture,53532,27.683536,-82.736092,mushroom,cat,Yes,no preference,Yes
+LEC001,19,Science: Chemistry,53715,40.7,-74,sausage,dog,No,night owl,Maybe
+LEC001,20,Engineering: Biomedical,53703,-33.86882,151.20929,pepperoni,dog,No,no preference,Maybe
+LEC001,20,Engineering: Industrial,53715,26.614149,-81.825768,pepperoni,dog,No,night owl,No
+LEC001,19,Engineering: Biomedical,53706,45.440845,12.315515,none (just cheese),dog,Yes,night owl,Yes
+LEC001,19,Data Science,53726,43.0766,89.4125,none (just cheese),cat,No,night owl,No
+LEC001,20,Engineering: Biomedical,53711,33.684566,-117.826508,pineapple,dog,Yes,early bird,Maybe
+LEC001,21,Statistics,26617,22.396427,114.109497,pineapple,dog,Yes,night owl,Maybe
+LEC001,18,Data Science,53706,-33.86882,151.20929,pepperoni,dog,Yes,night owl,No
+LEC001,21,Economics,53703,1.53897,103.58007,pineapple,neither,Yes,night owl,Yes
+LEC001,18,Data Science,53558,41.877541,-88.066727,mushroom,dog,No,night owl,Maybe
+LEC001,17,Computer Science,53703,25.204849,55.270782,pepperoni,dog,Yes,night owl,Yes
+LEC001,19,Engineering: Mechanical,53715,19.7,-155,pineapple,dog,Yes,early bird,Yes
+LEC001,19,Data Science,53703,41.878113,-87.629799,none (just cheese),cat,Yes,night owl,Yes
+LEC001,18,Science: Biology/Life,53715,39.904202,116.407394,basil/spinach,dog,Yes,night owl,Maybe
+LEC001,20,Science: Physics,53711,43.038902,-87.906471,pepperoni,dog,No,no preference,Yes
+LEC001,18,Engineering: Mechanical,53706,41.902782,12.496366,pepperoni,neither,Yes,night owl,Yes
+LEC001,18,Data Science,53706,47.60323,-122.330276,Other,dog,No,night owl,Yes
+LEC001,19,Economics,53706,40.7,74,none (just cheese),dog,Yes,night owl,Yes
+LEC001,19,Business: Finance,53703,34.052235,-118.243683,mushroom,dog,Yes,early bird,Maybe
+LEC001,20,Science: Other|Atmospheric & Oceanic Sciences,53711,40.412776,-74.005974,pepperoni,neither,No,early bird,Yes
+LEC001,19,Computer Science,53706,37.774929,-122.419418,none (just cheese),cat,No,early bird,Yes
+LEC001,20,Engineering: Mechanical,53703,44.78441,-93.17308,pepperoni,dog,Yes,no preference,Yes
+LEC001,22,Engineering: Other,53726,39.48214,-106.048691,pineapple,cat,No,no preference,Maybe
+LEC001,21,Computer Science,53703,33.68,-117.82,basil/spinach,cat,No,early bird,No
+LEC001,17,Computer Science,53706,25.204849,55.270782,pepperoni,neither,Yes,no preference,Maybe
+LEC001,18,Engineering: Industrial,53706,41.917519,-87.694771,basil/spinach,dog,Yes,night owl,Yes
+LEC001,18,Engineering: Biomedical,53706,42.361145,-71.057083,macaroni/pasta,dog,No,night owl,Yes
+LEC001,,Engineering: Biomedical,53703,43.073929,-89.385239,basil/spinach,dog,No,early bird,No
+LEC001,18,Economics,53706,30.20241,120.226822,Other,neither,Yes,early bird,No
+LEC001,20,Engineering: Biomedical,53703,41.198496,0.773436,pepperoni,dog,No,night owl,Yes
+LEC001,19,Engineering: Mechanical,53703,39.739235,-104.99025,pepperoni,dog,Yes,no preference,Maybe
+LEC001,20,Science: Chemistry,53703,32.16761,120.012444,pepperoni,neither,No,night owl,Maybe
+LEC001,19,Data Science,53703,43.0722,89.4008,pineapple,dog,Yes,night owl,Yes
+LEC001,18,Science: Biology/Life,53715,41.878113,-87.629799,sausage,dog,Yes,early bird,No
+LEC004,,Business: Information Systems,53715,42.360081,-71.058884,Other,dog,No,no preference,Maybe
+LEC001,21,Engineering: Biomedical,53703,44.513317,-88.013298,pepperoni,dog,No,night owl,No
+LEC001,20,Data Science,53132,43.073051,-89.40123,Other,cat,No,night owl,Maybe
+LEC001,18,Business: Actuarial,53706,48.856613,2.352222,sausage,dog,No,no preference,Maybe
+LEC001,20,Political Science,53715,48.135124,11.581981,sausage,cat,Yes,night owl,Yes
+LEC001,19,Engineering: Industrial,53703,41,-74,sausage,dog,Yes,no preference,No
+LEC001,20,Psychology,53703,43.083321,-89.372475,Other,neither,No,night owl,Yes
+LEC001,18,Computer Science and Statistics,53706,36.162663,-86.781601,mushroom,dog,Yes,early bird,Maybe
+LEC001,19,Engineering: Mechanical,53703,25.88,-80.16,pepperoni,dog,No,night owl,Yes
+LEC001,18,Computer Science,53703,46.947975,7.447447,sausage,cat,Yes,night owl,No
+LEC001,19,Business: Information Systems,53703,41.17555,73.64731,pepperoni,dog,No,night owl,Maybe
+LEC001,20,Political Science,53703,45.018269,-93.473892,sausage,dog,No,night owl,Maybe
+LEC001,,Business analytics,53705,45.50169,-73.567253,pineapple,cat,No,no preference,No
+LEC001,21,Science: Biology/Life,53726,32.060253,118.796875,mushroom,cat,No,night owl,No
+LEC001,19,Engineering: Mechanical,53706,35.806,-78.68483,none (just cheese),dog,No,night owl,Yes
+LEC005,20,Data Science,53726,31.230391,121.473701,none (just cheese),dog,Yes,no preference,Maybe
+LEC005,18,Engineering: Mechanical,53706,41.878113,-87.629799,Other,cat,No,night owl,Maybe
+LEC004,18,Statistics,53706,27.35741,-82.615471,none (just cheese),dog,Yes,early bird,No
+LEC002,20,Business: Finance,53715,35.726212,-83.491226,pepperoni,dog,Yes,no preference,Yes
+LEC002,18,Undecided,53706,43.769562,11.255814,pepperoni,dog,No,night owl,Yes
+LEC004,19,Business: Actuarial,53703,43.040433,-87.897423,sausage,cat,No,night owl,No
+LEC004,19,Engineering: Mechanical,5,25.034281,-77.396278,sausage,dog,Yes,no preference,Yes
+LEC001,,Engineering: Mechanical,53706,34.052235,-118.243683,Other,dog,Yes,night owl,Yes
+LEC003,18,Engineering: Industrial,53706,20.798363,-156.331924,none (just cheese),dog,Yes,early bird,No
+LEC002,19,Engineering: Biomedical,53703,51.1784,115.5708,pineapple,dog,Yes,night owl,No
+LEC005,19,Statistics,53703,43.05367,-88.44062,pepperoni,dog,Yes,night owl,No
+LEC004,18,Engineering: Industrial,53706,36.110168,-97.058571,none (just cheese),dog,No,early bird,Maybe
+LEC004,21,Computer Science,53703,43.07016,-89.39386,mushroom,cat,Yes,early bird,No
+LEC005,19,Data Science,53726,43.073051,-89.40123,pepperoni,dog,No,early bird,Yes
+LEC004,18,Data Science,53706,41.878113,-87.629799,macaroni/pasta,dog,Yes,early bird,Maybe
+LEC001,20,Business: Finance,53726,43.073051,-89.40123,pepperoni,dog,No,night owl,Maybe
+LEC001,18,Data Science,53706,43.038902,-87.906471,pineapple,dog,No,night owl,Maybe
+LEC001,24,Engineering: Other,53718,46.77954,-90.78511,pineapple,dog,Yes,night owl,No
+LEC001,18,Statistics,53706,22.57,88.36,pineapple,dog,Yes,night owl,Maybe
+LEC004,20,Computer Science,53715,35.016956,-224.24911,pepperoni,dog,No,night owl,Yes
+LEC001,20,Science: Biology/Life,53715,47.606209,-122.332069,none (just cheese),dog,Yes,night owl,Maybe
+LEC004,18,Engineering: Industrial,53706,21.28482,-157.83245,pineapple,dog,No,night owl,Yes
+LEC001,20,Engineering: Biomedical,53715,40.63,14.6,none (just cheese),dog,No,early bird,Maybe
+LEC004,20,Legal Studies,53703,20.798363,-156.331924,green pepper,dog,No,early bird,No
+LEC002,18,Computer Science,53706,32.060253,118.796875,sausage,dog,Yes,early bird,Maybe
+LEC002,18,Journalism,53706,31,103,none (just cheese),cat,No,night owl,Yes
+LEC004,,Computer Science,53706,147,32.5,pineapple,cat,No,early bird,Maybe
+LEC004,18,Engineering: Biomedical,53701,43.038902,-87.906471,pepperoni,dog,No,night owl,No
+LEC004,18,Engineering: Mechanical,20815,39.640259,-106.370872,sausage,dog,No,night owl,No
+LEC004,19,Engineering: Mechanical,53715,41,12,pepperoni,dog,No,no preference,Maybe
+LEC004,20,Journalism: Strategic Comm./Advertising,53703,43.073051,-89.40123,Other,dog,Yes,night owl,Yes
+LEC004,,Engineering: Mechanical,53715,43,-87.9,pepperoni,cat,Yes,early bird,Maybe
+LEC004,19,Engineering: Biomedical,53706,32.715736,117.161087,pepperoni,dog,Yes,no preference,Yes
+LEC004,18,Data Science,53706,43.073051,-89.40123,pepperoni,dog,No,night owl,Yes
+LEC004,18,History,53706,42.19381,-73.362877,none (just cheese),cat,Yes,night owl,Yes
+LEC002,19,Engineering: Mechanical,53703,39.290386,-76.61219,mushroom,dog,No,no preference,No
+LEC002,19,Engineering: Mechanical,53726,40.416775,-3.70379,macaroni/pasta,dog,No,early bird,Maybe
+LEC005,19,Engineering: Mechanical,53726,46.870899,-89.313789,sausage,dog,Yes,night owl,Maybe
+LEC004,19,Science: Biology/Life,53151,41.878113,-87.629799,sausage,dog,No,night owl,Yes
+LEC005,18,Data Science,53711,35.1796,129.0756,pepperoni,cat,Yes,night owl,Yes
+LEC004,18,Data Science,53706,37.568291,126.99778,pepperoni,dog,No,no preference,Maybe
+LEC005,17,Statistics,53706,31.23,121.47,sausage,cat,No,night owl,Maybe
+LEC003,19,Undecided,53715,43.041069,-87.909416,mushroom,dog,No,no preference,Maybe
+LEC005,19,Economics,53703,47.606209,-122.332069,pineapple,neither,No,no preference,Maybe
+LEC005,21,Science: Biology/Life,53726,40.76078,-111.891045,mushroom,dog,No,no preference,Yes
+LEC003,19,Engineering: Mechanical,53706,43,-88.27,Other,dog,No,night owl,Yes
+LEC003,20,Business: Other|Accounting,53726,43,-89,pepperoni,dog,Yes,early bird,Yes
+LEC005,18,Engineering: Other,53706,64.147209,-21.9424,pepperoni,dog,No,night owl,Yes
+LEC003,18,Data Science,53562,42.66544,21.165319,pepperoni,dog,No,night owl,Yes
+LEC005,22,Data Science,53711,39.738449,-104.984848,none (just cheese),dog,No,night owl,Yes
+LEC003,18,Engineering: Mechanical,53706,33.748997,-84.387985,mushroom,dog,No,night owl,Yes
+LEC004,19,Engineering: Mechanical,53717,41.2224,86.413,Other,dog,Yes,early bird,Maybe
+LEC003,19,Business: Actuarial,53706,39.299236,-76.609383,pineapple,dog,Yes,night owl,No
+LEC001,,Engineering: Mechanical,53703,32.776665,-96.796989,sausage,dog,No,night owl,Maybe
+LEC004,19,Engineering: Biomedical,53703,41.878113,-87.629799,pepperoni,dog,Yes,no preference,Yes
+LEC004,26,Master of Public Affairs,53715,48.118145,-123.43074,basil/spinach,dog,Yes,early bird,Yes
+LEC004,19,Engineering: Mechanical,53703,-12.12168,-45.013481,basil/spinach,dog,No,night owl,Yes
+LEC004,18,Data Science,53706,31.230391,121.473701,sausage,cat,No,night owl,No
+LEC005,21,Engineering: Industrial,53715,1.352083,103.819839,none (just cheese),neither,No,night owl,Yes
+LEC004,19,Engineering: Mechanical,53703,40.712776,-74.005974,sausage,dog,No,early bird,No
+LEC004,19,Engineering: Mechanical,53715,37.98381,23.727539,basil/spinach,dog,Yes,early bird,No
+LEC005,20,Business: Actuarial,53703,45.003288,-90.329788,sausage,dog,No,early bird,Maybe
+LEC005,20,Engineering: Mechanical,53703,43.073051,-89.40123,pepperoni,dog,Yes,early bird,No
+LEC001,21,Economics,53703,41.902782,12.496365,basil/spinach,dog,No,no preference,No
+LEC004,18,Engineering: Biomedical,53706,45.4894,93.2476,mushroom,cat,No,night owl,No
+LEC005,19,Data Science,53703,43.2708,89.7221,sausage,dog,Yes,night owl,No
+LEC003,,Engineering: Mechanical,53706,45.87128,-89.711632,pepperoni,neither,Yes,no preference,Yes
+LEC004,19,Engineering: Mechanical,53715,42.360081,-71.058884,pepperoni,dog,Yes,night owl,Maybe
+LEC004,18,Engineering: Mechanical,53706,45.056389,-92.960793,pepperoni,dog,No,night owl,Yes
+LEC003,,Computer Science,53703,43.07,-89.4,pepperoni,dog,Yes,no preference,Maybe
+LEC001,20,Business: Finance,53703,22.20315,-159.495651,Other,dog,Yes,no preference,No
+LEC005,19,Engineering: Mechanical,53703,44.74931,-92.80088,pineapple,dog,No,early bird,No
+LEC004,21,Business: Actuarial,53726,38.874341,-77.032013,pepperoni,dog,No,no preference,Yes
+LEC005,19,Engineering: Mechanical,53703,18.34791,-64.71424,basil/spinach,dog,No,night owl,No
+LEC004,18,Engineering: Mechanical,53703,27.5041,82.7145,sausage,dog,No,night owl,Maybe
+LEC005,19,Engineering: Biomedical,53706,36.462,25.375465,basil/spinach,dog,No,night owl,No
+LEC004,27,Environment & Resources,53703,37.389091,-5.984459,mushroom,dog,No,night owl,Maybe
+LEC004,19,Business: Actuarial,53726,32,-117,pepperoni,neither,Yes,night owl,Yes
+LEC005,20,Science: Physics,53703,46.2833,-89.73,pepperoni,dog,No,early bird,Maybe
+LEC003,19,Engineering: Industrial,53703,40.712776,-74.005974,basil/spinach,dog,Yes,night owl,No
+LEC003,18,Data Science,53706,40.712776,-74.005974,Other,dog,Yes,early bird,No
+LEC005,,Data Science,53703,43.073051,-89.40123,pepperoni,dog,No,night owl,No
+LEC004,21,Business: Actuarial,53703,39.19067,-106.819199,macaroni/pasta,cat,No,no preference,Maybe
+LEC006,18,Engineering: Industrial,53706,37.743042,-122.415642,green pepper,dog,Yes,no preference,No
+LEC003,20,Economics,53703,22.54,114.05,pineapple,dog,No,night owl,Yes
+LEC006,18,Data Science,53706,59.93428,30.335098,pineapple,dog,Yes,night owl,Maybe
+LEC004,19,Engineering: Mechanical,53715,45.10994,-87.209793,pepperoni,dog,Yes,early bird,No
+LEC002,20,Science: Biology/Life,53703,51.507351,-0.127758,pepperoni,dog,Yes,no preference,Yes
+LEC004,18,Environmental Studies,53703,42.360081,-71.058884,pineapple,cat,No,no preference,Maybe
+LEC004,19,Engineering: Mechanical,53715,45,-87,sausage,cat,Yes,no preference,Maybe
+LEC004,19,Engineering: Mechanical,53703,48.137,11.575,pepperoni,dog,Yes,night owl,Maybe
+LEC004,20,Engineering: Industrial,53711,48.856613,2.352222,sausage,cat,No,no preference,No
+LEC004,18,Science: Other,53706,48.410648,-114.338188,none (just cheese),dog,No,no preference,Maybe
+LEC004,18,Mathematics/AMEP,53706,24.585445,73.712479,pineapple,dog,Yes,night owl,Maybe
+LEC003,18,Data Science,53706,36.974117,-122.030792,pepperoni,cat,Yes,night owl,Yes
+LEC004,19,Computer Science,53715,40.79254,-98.70807,pepperoni,dog,Yes,night owl,No
+LEC005,19,Engineering: Mechanical,53711,30.572815,104.066803,pineapple,dog,No,night owl,Yes
+LEC001,21,Science: Chemistry,53715,3.139003,101.686852,pepperoni,neither,No,no preference,Maybe
+LEC006,18,Data Science,53706,40.46,-90.67,sausage,dog,No,night owl,No
+LEC004,20,Science: Other|Environmental Science,53715,43.073051,-89.40123,sausage,dog,No,night owl,Yes
+LEC004,20,Engineering: Biomedical,53715,30.328227,-86.136975,pepperoni,dog,Yes,no preference,Maybe
+LEC004,21,Science: Biology/Life,53703,41.385063,2.173404,macaroni/pasta,dog,No,night owl,Yes
+LEC003,18,Mathematics/AMEP,53706,42.99571,-90,sausage,dog,Yes,night owl,Yes
+LEC004,19,Engineering: Mechanical,53703,41.385063,2.173404,sausage,dog,Yes,night owl,Yes
+LEC001,,Engineering: Industrial,53706,40.7128,74.006,pepperoni,dog,No,early bird,Yes
+LEC005,18,Psychology,53706,9.167414,77.876747,mushroom,cat,No,early bird,No
+LEC003,19,Engineering: Industrial,53715,24.713552,46.675297,basil/spinach,neither,Yes,early bird,Maybe
+LEC001,18,Undecided,53706,44.8341,87.377,basil/spinach,dog,No,no preference,Yes
+LEC003,19,Engineering: Mechanical,53705,46.589146,-112.039108,none (just cheese),cat,No,night owl,Yes
+LEC001,20,Economics,53703,39.631506,118.143239,pineapple,dog,No,night owl,Maybe
