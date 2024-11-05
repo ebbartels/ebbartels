@@ -79,5 +79,3 @@ print(f"Average loss: {running_loss / len(test_loader):.4f}")
 
 print(f"Accuracy: {correct/total*100:.2f}%")
 # -
-
-
