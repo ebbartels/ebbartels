@@ -1,78 +1,83 @@
-# +
 import torch
-
-import pandas as pd
-import zipfile
-import os
-import gzip
-import matplotlib.pyplot as plt
-import numpy as np
-# -
-
-# !kaggle datasets download -d hojjatk/mnist-dataset 
+import torch.nn as nn
+import torch.optim as optim
+from torchvision import datasets, transforms
+from torch.utils.data import DataLoader
 
 
-with zipfile.ZipFile("mnist-dataset.zip", 'r') as zip_ref:
-    zip_ref.extractall("mnist-dataset")
+transform = transforms.Compose([
+    transforms.ToTensor(),  # Converts PIL images to tensors
+])
+
+train_set = datasets.MNIST(root='./data', train=True, download=True, transform=transform)
+test_set = datasets.MNIST(root='./data', train=False, download=True, transform=transform)
 
 
-def load_idx_gz(filename):
-    with gzip.open(filename, 'rb') as f:
-        # Read the magic number (first 4 bytes)
-        magic = int.from_bytes(f.read(4), byteorder='big')
-        print(f"Magic number: {magic}")
+train_loader = DataLoader(train_set, batch_size=64, shuffle=True)
+test_loader = DataLoader(test_set, batch_size=64, shuffle=False)
+
+
+class Net(nn.Module):
+    def __init__(self):
+        super(Net, self).__init__()
+        self.flat = nn.Flatten()
+        self.l1 = nn.Linear(784,128)
+        self.relu1 = nn.ReLU()
+        self.l2 = nn.Linear(128,64)
+        self.relu2 = nn.ReLU()
+        self.l3 = nn.Linear(64, 10)
         
-        # Read dimensions
-        num_images = int.from_bytes(f.read(4), byteorder='big')
-        rows = int.from_bytes(f.read(4), byteorder='big')
-        cols = int.from_bytes(f.read(4), byteorder='big')
-        
-        print(f"Number of images: {num_images}, Rows: {rows}, Columns: {cols}")
-        
-        # Read the rest of the data as a NumPy array
-        buffer = f.read()
-        data = np.frombuffer(buffer, dtype=np.uint8)
-        
-        # Reshape data into images
-        data = data.reshape(num_images, rows, cols)
-        
-        return data
+    def forward(self, x):
+        x = self.flat(x)
+        x = self.relu1(self.l1(x))
+        x = self.relu2(self.l2(x))
+        x = self.l3(x)
+        return x
 
 
+model = Net()
+
+criterion = nn.CrossEntropyLoss()
+opt = optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
+
+for epoch in range(10):
+    correct = 0
+    total = 0
+    for i, data in enumerate(train_loader, 0):
+        inputs, labels = data
+        opt.zero_grad()
+
+        outputs = model(inputs)
+        loss = criterion(outputs, labels)
+        loss.backward()
+        opt.step()
+
+        _, predicted = torch.max(outputs, 1)
+        total += labels.size(0)
+        correct += (predicted == labels).sum().item()
+
+    print(f"Train Epoch: {epoch} Accuracy: {correct}/{total}({correct/total*100:.2f}%) Loss: {loss:.3f}") 
 
 # +
-import gzip
-import numpy as np
+model.eval()
+running_loss = 0.0
+correct = 0
+total = 0
 
-def load_idx_labels_gz(filename):
-    with gzip.open(filename, 'rb') as f:
-        # Read the magic number (first 4 bytes)
-        magic = int.from_bytes(f.read(4), byteorder='big')
-        print(f"Magic number: {magic}")
-        
-        # Read number of items (labels)
-        num_labels = int.from_bytes(f.read(4), byteorder='big')
-        print(f"Number of labels: {num_labels}")
-        
-        # Read the rest of the data as a NumPy array (dtype is uint8 for labels)
-        buffer = f.read()
-        labels = np.frombuffer(buffer, dtype=np.uint8)
-        
-        return labels
+with torch.no_grad():
+    for data, labels in test_loader:
+        outputs = model(data)
 
+        _, predicted = torch.max(outputs.data, 1)
 
+        loss = criterion(outputs, labels)
+        running_loss += loss.item()
+        total += labels.size(0)
+        correct += (predicted == labels).sum().item()
 
+print(f"Average loss: {running_loss / len(test_loader):.4f}")
+
+print(f"Accuracy: {correct/total*100:.2f}%")
 # -
 
-train_images_path = os.path.join("data","MNIST", "raw", "train-images-idx3-ubyte.gz")
-train_images = load_idx_gz(train_images_path)
 
-
-path_label_train = os.path.join("data","MNIST", "raw", "train-labels-idx1-ubyte.gz")
-train_labels = load_idx_labels_gz(path_label_train)
-
-test_images_path = os.path.join("data","MNIST", "raw", "t10k-images-idx3-ubyte.gz")
-test_images = load_idx_gz(test_images_path)
-
-test_labels_path = os.path.join("data","MNIST", "raw", "t10k-labels-idx1-ubyte.gz")
-test_labels = load_idx_labels_gz(test_labels_path)
